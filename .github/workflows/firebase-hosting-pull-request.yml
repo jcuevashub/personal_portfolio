@@ -12,5 +12,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SIGMA_MAKER_396200 }}'
-          projectId: sigma-maker-396200
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_JACKSONCUEVAS_PORTFOLIO }}'
+          projectId: jacksoncuevas-portfolio

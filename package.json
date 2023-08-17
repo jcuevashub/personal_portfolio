@@ -1,7 +1,8 @@
 {
-  "name": "andresjosehr-portfolio",
+  "name": "jacksoncuevas-portfolio",
   "version": "0.0.0",
   "scripts": {
+    "deploy": "firebase deploy --only hosting",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
