@@ -48,5 +48,5 @@ Thumbs.db
 public/
 *.pack
 *.old
-*.json
 *.cache
+.angular/cache/
