@@ -12,8 +12,9 @@ import { ProyectsComponent } from './proyects/proyects.component';
 import { NgbModule, NgbNav, NgbNavModule } from '@ng-bootstrap/ng-bootstrap';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { MobileProyectsComponent } from './mobile-proyects/mobile-proyects.component';
 
-export function HttpLoaderFactory(http: HttpClient){
+export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
@@ -26,6 +27,7 @@ export function HttpLoaderFactory(http: HttpClient){
     AboutComponent,
     JobsComponent,
     ProyectsComponent,
+    MobileProyectsComponent,
     MoreProyectsComponent,
     ContactComponent,
   ],
@@ -35,9 +37,9 @@ export function HttpLoaderFactory(http: HttpClient){
     CarouselModule,
     TranslateModule.forChild({
       loader: {
-          provide: TranslateLoader,
-          useFactory: HttpLoaderFactory,
-          deps: [HttpClient]
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
       }
     })
   ]

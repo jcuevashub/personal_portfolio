@@ -5,57 +5,40 @@
     "Header.Item3": "Proyectos",
     "Header.Item4": "Contacto",
     "Header.cvBtn": "Curriculum",
-    "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+    "Header.cvName": "Jackson_Cuevas_Resume.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 5 años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
+    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 6+ años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
     "Banner.ActionBtn": "Saludame",
-
+    "MainTech.Title": "Principales Habilidades & Educación",
+    "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
       "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas utilizando tecnologías como HTML5, CSS3 y Angular. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
       "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
-      "Competente en la utilización de Flutter con Dart, Android con Java y Kotlin para crear soluciones móviles efectivas. Un solucionador de problemas experto que cumple constantemente con los plazos y proporciona un trabajo de alta calidad. Experiencia comprobada en diseño de UI/UX, integración de API RESTful y metodologías Agile."
+      "Además del desarrollo web, mi conjunto de habilidades incluye el desarrollo de aplicaciones móviles. Tengo experiencia práctica en la creación de aplicaciones móviles multiplataforma con Flutter y Android nativo."
   ],
-
-
     "Experience.Title": "Experiencia, Responsabilidades & Logros",
-    "Experience.Jobs": [{
-      "Tab": "SPLIT Tech Inc.",
-      "Title": "Full-Stack Software Engineer, Team Leader",
-      "Date": "July 2023 - Present (Contractor)",
-      "Description": [
-        "Investigación, diseño y gestión de programas de software.",
-        "Encabecé la transición de una arquitectura monolítica a microservicios, aprovechando Node.js y Docker, lo que llevó a una reducción del 50 % en el tiempo de inactividad del sistema.",
-        "Realicé revisiones periódicas del código, promoviendo las mejores prácticas y mejorando las capacidades técnicas del equipo.",
-        "Integrar pasarelas de pago que utilizan las API de Stripe y PayPal dentro de plataformas de comercio electrónico basadas en React, lo que aumenta la conversión de ventas en un 15%.",
-        "Probar y evaluar nuevos programas.",
-        "Modificar el software para corregir errores y mejorar su rendimiento.",
-        "Dirigir la programación de software y el desarrollo de la documentación.",
-        "Escribir e implementar código.",
-        "Preparar informes sobre las especificaciones, actividades o estado de los proyectos de programación.",
-        "Consultar con el personal de ingeniería para evaluar las interfaces de software y hardware y desarrollar especificaciones y requisitos de rendimiento."
-      ]
-  },
-  {
-      "Tab": "CODIKA, SRL",
-      "Title": "Full-Stack Software Engineer, Scrum Master, Team Leader",
-      "Date": "October 2022 - July 2023 (Full-Time Job)",
-      "Description": [
-        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-        "Administré un equipo distribuido de 5 desarrolladores para construir una plataforma social escalable usando React, Node.js y MongoDB, logrando miles de usuarios activos en el primer año.",
-        "Cree ceremonias y planificaciones de Scrum.",
-        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-        "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin y Flutter.",
-        "Responsable de las revisiones de código y la calidad del código del equipo.",
-        "Administré equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-        "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
-      ]
-  },
+    "Experience.Jobs": [
+        {
+            "Tab": "Freelancer",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "June 2023 - Present",
+            "Description": [
+              "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+              "Administré un equipo distribuido de 5 desarrolladores para construir una plataforma social escalable usando React, Node.js y MongoDB, logrando miles de usuarios activos en el primer año.",
+              "Cree ceremonias y planificaciones de Scrum.",
+              "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+              "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin y Flutter.",
+              "Responsable de las revisiones de código y la calidad del código del equipo.",
+              "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+              "Proporcionar sesiones de transferencia de conocimientos entre el equipo."
+            ]
+        },
   {
       "Tab": "SoftCube, SRL",
       "Title": "Mid-Senior Mobile Software Engineer",
-      "Date": "Janury 2021 - May 2022 (Part-Time Job)",
+      "Date": "Janury 2021 - May 2022 (Full-Time Job)",
       "Description": [
         "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
         "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
@@ -72,6 +55,7 @@
       "Description": [
         "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
         "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
+        "Migrar dos proyectos realizados en .net framework 3.5 a .Net Core.",
         "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
         "Proporcioné liderazgo técnico a los compañeros de equipo a través de entrenamiento y tutoría.",
         "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
@@ -82,7 +66,7 @@
   {
       "Tab": "Wepsys, SRL",
       "Title": "Full Stack Software Engineer",
-      "Date": "December 2017 - July 2021 (Full Time Job)",
+      "Date": "December 2017 - July 2021 (Full-Time Job)",
       "Description": [
         "Desarrollo de aplicaciones web robustas y escalables utilizando .NET Core y Angular.",
         "Lideró un equipo de 3 desarrolladores para renovar el sitio de comercio electrónico de un cliente importante utilizando Angular y Node.js, lo que resultó en un aumento del 20 % en la participación de los usuarios.",
@@ -140,6 +124,7 @@
         "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
     }
 ],
+"InConstruction.Title": "En construcción..",
 
 "FeatureMobileProjects.Title": "Mobile Projects",
 "FeatureMobileProjects.Label": "Featured Project",
@@ -177,8 +162,6 @@
         "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
     }
 ],
-
-
 
     "OtherProjects.Title": "Mas proyectos",
     "OtherProjects.Projects": [{

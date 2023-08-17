@@ -5,42 +5,26 @@
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvName": "Jackson_Cuevas_Resume_English.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "As a Full Stack Software Engineer with <span class='underline'>over 5+ years of experience</span> , I deeply understand both front-end and back-end technologies. My experience spans the entire software development life cycle, from gathering requirements and designing solutions to deployment and maintenance.",
+    "Banner.Description": "As a Full Stack Software Engineer with <span class='underline'>over 6+ years of experience</span> , I deeply understand both front-end and back-end technologies. My experience spans the entire software development life cycle, from gathering requirements and designing solutions to deployment and maintenance.",
     "Banner.ActionBtn": "Get in touch",
-
+    "MainTech.Title": "Main Skills & Education",
+    "SecondTech.Title": "Well known",
     "AboutMe.Title": "About me",
+    
     "AboutMe.Paragraphs": [
         "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as HTML5, CSS3 and Angular. I have a keen eye for design and usability and am adept at converting designs into fully functional web pages that provide a seamless user experience.",
         "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET Core and Node.js. Likewise, I am proficient in optimizing database queries and designing database schemas, with a strong background in SQL server databases and MongoDB.",
-        "Proficient in utilizing Flutter with Dart, Android with Java, and Kotlin to create effective mobile solutions. An adept problem solver who consistently meets deadlines and provides high-quality work. Proven expertise in UI/UX design, RESTful API integration, and Agile methodologies."
+        "In addition to web development, my skill set includes mobile app development. I have hands-on experience in building cross-platform mobile applications using Android and Flutter."
     ],
-
-
     "Experience.Title": "Experience",
-    "Experience.Jobs": [{
-            "Tab": "SPLIT Tech Inc.",
-            "Title": "Full-Stack Software Engineer, Team Leader",
-            "Date": "July 2023 - Present (Contractor)",
-            "Description": [
-              "Researching, designing, and managing software programs.",
-              "I spearheaded the transition from a monolithic architecture to microservices, leveraging Node.js and Docker, leading to a 50% reduction in system downtime.",
-              "Conducted regular code reviews, promoting best practices and enhancing the team's technical capabilities.",
-              "Integrated payment gateways using Stripe and PayPal APIs within React-based e-commerce platforms, increasing sales conversion by 15%.",
-              "Testing and evaluating new programs.",
-              "Modifying software to fix errors, and improve its performance.",
-              "Directing software programming and documentation development.",
-              "Writing and implementing code.",
-              "Preparing reports on programming project specifications, activities, or status.",
-              "Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements."
-            ]
-        },
+    "Experience.Jobs": [
         {
-            "Tab": "CODIKA, SRL",
-            "Title": "Full-Stack Software Engineer, Scrum Master, Team Leader",
-            "Date": "October 2022 - July 2023 (Full-Time Job)",
+            "Tab": "Freelancer",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "June 2023 - Present",
             "Description": [
               "Planned and managed the phases of the development life cycle of the software.",
               "Managed a distributed team of 5 developers to build scalable a social platform using React, Node.js, and MongoDB, achieving thousands of active users within the first year.",
@@ -54,9 +38,19 @@
         },
         {
             "Tab": "SoftCube, SRL",
-            "Title": "Mid-Senior Mobile Software Engineer",
-            "Date": "Janury 2021 - May 2022 (Part-Time Job)",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "Janury 2021 - May 2023 (Full-Time Job)",
             "Description": [
+                "Researching, designing, and managing software programs.",
+                "I spearheaded the transition from a monolithic architecture to microservices, leveraging Node.js and Docker, leading to a 50% reduction in system downtime.",
+                "Conducted regular code reviews, promoting best practices and enhancing the team's technical capabilities.",
+                "Integrated payment gateways using Stripe and PayPal APIs within React-based e-commerce platforms, increasing sales conversion by 15%.",
+                "Testing and evaluating new programs.",
+                "Modifying software to fix errors, and improve its performance.",
+                "Directing software programming and documentation development.",
+                "Writing and implementing code.",
+                "Preparing reports on programming project specifications, activities, or status.",
+                "Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
               "Planned and managed the phases of the development life cycle of the software.",
               "Analyzed feedback data provided by end-users, architects, and tech leads.",
               "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
@@ -72,6 +66,7 @@
             "Description": [
               "I spearheaded the migration of a legacy ASP.NET Web Forms application to a modern architecture using .NET Core and Angular, resulting in a 45% boost in performance and a 25% reduction in maintenance costs.",
               "Develop .NET-based web applications and products sold by the company.",
+              "Migrate two projects made in .net framework 3.5 to .Net Core.",
               "Planned and managed the phases of the development life cycle of the software.",
               "Provided technical leadership to teammates through coaching and mentorship.",
               "Analyzed feedback data provided by end-users, architects, and tech leads.",
@@ -177,6 +172,7 @@
         }
     ],
 
+    "InConstruction.Title": "In Construction..",
 
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [{
@@ -223,8 +219,8 @@
         }
     ],
     "Contact.Pretitle": "What’s Next",
-    "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Title": "Connect with Me!",
+    "Contact.Content": "If you're interested in discussing new opportunities, please feel free to reach out. I'll respond promptly upon receiving your message.",
     "Contact.Btn": "Say Hello"
 
 
