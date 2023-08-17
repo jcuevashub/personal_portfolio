@@ -103,69 +103,79 @@
         }
     ],
 
-    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Title": "Web Projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "Split Merchant",
+            "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
             "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+                "assets/images/splitmerchant/0.png",
+                "assets/images/splitmerchant/1.png",
+                "assets/images/splitmerchant/2.png",
+                "assets/images/splitmerchant/3.png"
+
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
         },
         {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "Title": "Split Payroll",
+            "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
             "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
+                "assets/images/splitloan/0.png",
+                "assets/images/splitloan/1.png",
+                "assets/images/splitloan/2.png",
+                "assets/images/splitloan/3.png",
+                "assets/images/splitloan/4.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
         },
         {
-            "Title": "Proyexiot",
-            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": "PoolChief",
+            "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
+            "demoLink": "https://poolchief.com/",
             "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
+                "assets/images/poolchief/0.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Hands game",
-            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-        },
-        {
-            "Title": "Countries viewer",
-            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
+            "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
         }
     ],
 
+    "FeatureMobileProjects.Title": "Mobile Projects",
+    "FeatureMobileProjects.Label": "Featured Project",
+    "FeatureMobileProjects.Projects": [{
+            "Title": "Split Merchant",
+            "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+            "imgs": [
+                "assets/images/splitmerchant/0.png",
+                "assets/images/splitmerchant/1.png",
+                "assets/images/splitmerchant/2.png",
+                "assets/images/splitmerchant/3.png"
+
+            ],
+            "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+        },
+        {
+            "Title": "Split Payroll",
+            "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
+            "imgs": [
+                "assets/images/splitloan/0.png",
+                "assets/images/splitloan/1.png",
+                "assets/images/splitloan/2.png",
+                "assets/images/splitloan/3.png",
+                "assets/images/splitloan/4.png"
+            ],
+            "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+        },
+        {
+            "Title": "PoolChief",
+            "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
+            "demoLink": "https://poolchief.com/",
+            "imgs": [
+                "assets/images/poolchief/0.png"
+            ],
+            "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
+        }
+    ],
 
 
     "OtherProjects.Title": "More projects",

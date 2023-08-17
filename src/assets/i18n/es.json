@@ -8,143 +8,175 @@
     "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Tengo <span class='underline'>4 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y en ocaciones en <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
+    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 5 años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
     "Banner.ActionBtn": "Saludame",
 
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-        "En mis <span class='underline'>4 años como desarrollador</span> busco capacitarme cada día. Al mismo tiempo he trabajado escribiendo <span class='underline'>pruebas unitarias</span>, realizando <span class='underline'>integración continua</span> y también cubriendo roles de backend developer con <span class='underline'>Laravel y Mysql</span>. También he liderado equipos teniendo empatía, ejerciendo motivación a compañeros y estableciendo planes y metas en conjunto.",
-        "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que este trabajando.",
-        "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
-    ],
+      "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas utilizando tecnologías como HTML5, CSS3 y Angular. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
+      "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
+      "Competente en la utilización de Flutter con Dart, Android con Java y Kotlin para crear soluciones móviles efectivas. Un solucionador de problemas experto que cumple constantemente con los plazos y proporciona un trabajo de alta calidad. Experiencia comprobada en diseño de UI/UX, integración de API RESTful y metodologías Agile."
+  ],
 
 
-    "Experience.Title": "Experiencia",
-    "Experience.Jobs": [
-      {
-            "Tab": "Proyex",
-            "Title": "Fullstack developer",
-            "Date": "Diciembre 2019 - Actualidad",
-            "Description": [
-              "Creación y mantenimiento de una plataforma de monitorio con gráficos en Wordpress.",
-              "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
-              "Implementación de integración continua y respaldos diarios.",
-              "Creación y mantenimiento de una segunda plataforma de Monitoreo Realizada en Angular, Angular Material, Laravel, Mysql, RxJS, Sass con gráficos (configurables), sistema de alarmas, y gestión de usuarios y configuración de parámetros generales.",
-              "Reuniones de planificación en informes."
-            ]
-      },
-      {
-        "Tab": "Freelancer",
-        "Title": "Independiente",
-        "Date": "Mayo 2016 - Actualidad",
-        "Description": [
-          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-          "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
-          "Automatizacion de procesos con estructuras de datos.",
-          "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
-        ]
-      },
-      {
-        "Tab": "Moebius",
-        "Title": "FullStack developer",
-        "Date": "Julio 2017 - Octubre 2018",
-        "Description": [
-          "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
-          "Implementacion de CI/CD en Azure. Refactorizando y optimizando tiempos de carga de la aplicación.",
-          "Codificación de peticiones a API con RxJS.",
-          "Crecion de modulos con formularios reactivos complejos",
-          "Redacción de informes semanales acerca de metas y planes."
-        ]
-      },
-      {
-        "Tab": "TechLatam",
-        "Title": "Frontend developer",
-        "Date": "Febrero 2016 - Mayo 2017",
-        "Description": [
-          "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
-          "integración de mejoras en diseño y tiempos de carga de plantillas.",
-          "Comunicación efectiva con equipo de diseño, trabajando con Avocode / Figma"
-        ]
-      },
-      {
-        "Tab": "CANTV",
-        "Title": "Analista de sistema",
-        "Date": "Noviembre 2015 - Diciembre 2016",
-        "Description": [
-          "Programacion de nuevas funcionalidades para una plataforma de gestión de empleados existente realizada en Angular y ExpressJS",
-          "Realizar refactorización de código antiguo. Asegurar la compatibilidad de cada dependencia en cada actualización, junto también con la actualización regular de Angular."
-        ]
-      },
-      {
-        "Tab": "IEP",
-        "Title": "Profesor de Inglés",
-        "Date": "Enero 2015 - Julio 2015",
-        "Description": ["Enseñando ingles a nivel básico a una matrícula de más de 200 alumnos."]
-      }
-    ],
+    "Experience.Title": "Experiencia, Responsabilidades & Logros",
+    "Experience.Jobs": [{
+      "Tab": "SPLIT Tech Inc.",
+      "Title": "Full-Stack Software Engineer, Team Leader",
+      "Date": "July 2023 - Present (Contractor)",
+      "Description": [
+        "Investigación, diseño y gestión de programas de software.",
+        "Encabecé la transición de una arquitectura monolítica a microservicios, aprovechando Node.js y Docker, lo que llevó a una reducción del 50 % en el tiempo de inactividad del sistema.",
+        "Realicé revisiones periódicas del código, promoviendo las mejores prácticas y mejorando las capacidades técnicas del equipo.",
+        "Integrar pasarelas de pago que utilizan las API de Stripe y PayPal dentro de plataformas de comercio electrónico basadas en React, lo que aumenta la conversión de ventas en un 15%.",
+        "Probar y evaluar nuevos programas.",
+        "Modificar el software para corregir errores y mejorar su rendimiento.",
+        "Dirigir la programación de software y el desarrollo de la documentación.",
+        "Escribir e implementar código.",
+        "Preparar informes sobre las especificaciones, actividades o estado de los proyectos de programación.",
+        "Consultar con el personal de ingeniería para evaluar las interfaces de software y hardware y desarrollar especificaciones y requisitos de rendimiento."
+      ]
+  },
+  {
+      "Tab": "CODIKA, SRL",
+      "Title": "Full-Stack Software Engineer, Scrum Master, Team Leader",
+      "Date": "October 2022 - July 2023 (Full-Time Job)",
+      "Description": [
+        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+        "Administré un equipo distribuido de 5 desarrolladores para construir una plataforma social escalable usando React, Node.js y MongoDB, logrando miles de usuarios activos en el primer año.",
+        "Cree ceremonias y planificaciones de Scrum.",
+        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+        "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin y Flutter.",
+        "Responsable de las revisiones de código y la calidad del código del equipo.",
+        "Administré equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+        "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+      ]
+  },
+  {
+      "Tab": "SoftCube, SRL",
+      "Title": "Mid-Senior Mobile Software Engineer",
+      "Date": "Janury 2021 - May 2022 (Part-Time Job)",
+      "Description": [
+        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+        "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
+        "Responsable de las revisiones de código y la calidad del código del equipo.",
+        "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+        "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+      ]
+  },
+  {
+      "Tab": "Khensys Corp.",
+      "Title": "Full Stack Software Engineer",
+      "Date": "Janury 2021 - December 2021 (Contractor)",
+      "Description": [
+        "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
+        "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
+        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+        "Proporcioné liderazgo técnico a los compañeros de equipo a través de entrenamiento y tutoría.",
+        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+        "Responsable de las revisiones de código y la calidad del código del equipo.",
+        "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos."
+      ]
+  },
+  {
+      "Tab": "Wepsys, SRL",
+      "Title": "Full Stack Software Engineer",
+      "Date": "December 2017 - July 2021 (Full Time Job)",
+      "Description": [
+        "Desarrollo de aplicaciones web robustas y escalables utilizando .NET Core y Angular.",
+        "Lideró un equipo de 3 desarrolladores para renovar el sitio de comercio electrónico de un cliente importante utilizando Angular y Node.js, lo que resultó en un aumento del 20 % en la participación de los usuarios.",
+        "Desarrollo y mantenimiento de aplicaciones móviles robustas y escalables usando Android con Kotlin",
+        "Responsable de las revisiones de código y la calidad del código del equipo.",
+        "Gestionar las instalaciones del entorno del cliente.",
+        "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos.",
+        "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+        "Proporcionar sesiones de transferencia de conocimiento entre el equipo.",
+        "Asesorar a los nuevos miembros del equipo como parte de sus procesos de incorporación."
+      ]
+  },
+  {
+      "Tab": "MINERD",
+      "Title": "English Teacher",
+      "Date": "Janury 2014 - December 2020 (Part-Time Job)",
+      "Description": ["Enseñanza de inglés a nivel básico a una matrícula de más de 200 alumnos."]
+  }
+],
 
-    "FeatureProjects.Title": "Mis proyectos",
-    "FeatureProjects.Label": "Proyecto Destacado",
-    "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
-            "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Tu super plan",
-            "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
-            "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Proyexiot",
-            "Description": "Plataforma de monitoreo de datos pertenecientes a pozos de agua, remolcadores y diversas instalaciones realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span>, <span class='underline'>gestión de usuarios</span> y <span class='underline'>geolocalizacion con openlayers.</span> Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
-            "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Hands game",
-            "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://proyectos.andresjosehr.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-        },
-        {
-            "Title": "Countries viewer",
-            "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
-        }
-    ],
+    
+"FeatureProjects.Title": "Proyectos Web",
+"FeatureProjects.Label": "Proyecto destacado",
+"FeatureProjects.Projects": [{
+        "Title": "Split Merchant",
+        "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+        "imgs": [
+            "assets/images/splitmerchant/0.png",
+            "assets/images/splitmerchant/1.png",
+            "assets/images/splitmerchant/2.png",
+            "assets/images/splitmerchant/3.png"
+
+        ],
+        "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+    },
+    {
+        "Title": "Split Payroll",
+        "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
+        "imgs": [
+            "assets/images/splitloan/0.png",
+            "assets/images/splitloan/1.png",
+            "assets/images/splitloan/2.png",
+            "assets/images/splitloan/3.png",
+            "assets/images/splitloan/4.png"
+        ],
+        "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+    },
+    {
+        "Title": "PoolChief",
+        "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
+        "demoLink": "https://poolchief.com/",
+        "imgs": [
+            "assets/images/poolchief/0.png"
+        ],
+        "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
+    }
+],
+
+"FeatureMobileProjects.Title": "Mobile Projects",
+"FeatureMobileProjects.Label": "Featured Project",
+"FeatureMobileProjects.Projects": [{
+        "Title": "Split Merchant",
+        "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+        "imgs": [
+            "assets/images/splitmerchant/0.png",
+            "assets/images/splitmerchant/1.png",
+            "assets/images/splitmerchant/2.png",
+            "assets/images/splitmerchant/3.png"
+
+        ],
+        "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+    },
+    {
+        "Title": "Split Payroll",
+        "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
+        "imgs": [
+            "assets/images/splitloan/0.png",
+            "assets/images/splitloan/1.png",
+            "assets/images/splitloan/2.png",
+            "assets/images/splitloan/3.png",
+            "assets/images/splitloan/4.png"
+        ],
+        "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
+    },
+    {
+        "Title": "PoolChief",
+        "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
+        "demoLink": "https://poolchief.com/",
+        "imgs": [
+            "assets/images/poolchief/0.png"
+        ],
+        "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
+    }
+],
 
 
 
