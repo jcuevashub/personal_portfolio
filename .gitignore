@@ -49,3 +49,4 @@ public/
 *.pack
 *.old
 *.json
+*.cache
