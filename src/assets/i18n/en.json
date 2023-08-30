@@ -15,8 +15,8 @@
     "AboutMe.Title": "About me",
     
     "AboutMe.Paragraphs": [
-        "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as HTML5, CSS3 and Angular. I have a keen eye for design and usability and am adept at converting designs into fully functional web pages that provide a seamless user experience.",
-        "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET Core and Node.js. Likewise, I am proficient in optimizing database queries and designing database schemas, with a strong background in SQL server databases and MongoDB.",
+        "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as HTML5, CSS3 and Angular. I have a keen eye for design and usability and I am adept at converting designs into fully functional web pages that provide a seamless user experience.",
+        "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET Core and Node.js. Likewise, I am proficient designing database schemas, with a strong background in SQL server databases and MongoDB.",
         "In addition to web development, my skill set includes mobile app development. I have hands-on experience in building cross-platform mobile applications using Android and Flutter."
     ],
     "Experience.Title": "Experience",
@@ -33,7 +33,17 @@
               "Development of robust and scalable mobile applications using Android with Kotlin, and Flutter.",
               "Responsible for code reviews and team code quality.",
               "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
-              "Provide knowledge transfer sessions among the team."
+              "Provide knowledge transfer sessions among the team.",
+              "Researching, designing, and managing software programs.",
+              "I spearheaded the transition from a monolithic architecture to microservices, leveraging Node.js and Docker, leading to a 50% reduction in system downtime.",
+              "Conducted regular code reviews, promoting best practices and enhancing the team's technical capabilities.",
+              "Integrated payment gateways using Stripe and PayPal APIs within React-based e-commerce platforms, increasing sales conversion by 15%.",
+              "Testing and evaluating new programs.",
+              "Modifying software to fix errors, and improve its performance.",
+              "Directing software programming and documentation development.",
+              "Writing and implementing code.",
+              "Preparing reports on programming project specifications, activities, or status.",
+              "Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements."
             ]
         },
         {
@@ -41,16 +51,6 @@
             "Title": "Full-Stack Software Engineer",
             "Date": "Janury 2021 - May 2023 (Full-Time Job)",
             "Description": [
-                "Researching, designing, and managing software programs.",
-                "I spearheaded the transition from a monolithic architecture to microservices, leveraging Node.js and Docker, leading to a 50% reduction in system downtime.",
-                "Conducted regular code reviews, promoting best practices and enhancing the team's technical capabilities.",
-                "Integrated payment gateways using Stripe and PayPal APIs within React-based e-commerce platforms, increasing sales conversion by 15%.",
-                "Testing and evaluating new programs.",
-                "Modifying software to fix errors, and improve its performance.",
-                "Directing software programming and documentation development.",
-                "Writing and implementing code.",
-                "Preparing reports on programming project specifications, activities, or status.",
-                "Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.",
               "Planned and managed the phases of the development life cycle of the software.",
               "Analyzed feedback data provided by end-users, architects, and tech leads.",
               "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
@@ -138,38 +138,14 @@
     "FeatureMobileProjects.Title": "Mobile Projects",
     "FeatureMobileProjects.Label": "Featured Project",
     "FeatureMobileProjects.Projects": [{
-            "Title": "Split Merchant",
-            "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
-            "imgs": [
-                "assets/images/splitmerchant/0.png",
-                "assets/images/splitmerchant/1.png",
-                "assets/images/splitmerchant/2.png",
-                "assets/images/splitmerchant/3.png"
-
-            ],
-            "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-        },
-        {
-            "Title": "Split Payroll",
-            "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
-            "imgs": [
-                "assets/images/splitloan/0.png",
-                "assets/images/splitloan/1.png",
-                "assets/images/splitloan/2.png",
-                "assets/images/splitloan/3.png",
-                "assets/images/splitloan/4.png"
-            ],
-            "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-        },
-        {
-            "Title": "PoolChief",
-            "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
-            "demoLink": "https://poolchief.com/",
-            "imgs": [
-                "assets/images/poolchief/0.png"
-            ],
-            "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
-        }
+        "Title": "Split Merchant",
+        "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+        "imgs": [
+            "assets/images/splitmobile/0.png",
+            "assets/images/splitmobile/1.png"
+        ],
+        "Technologies": ["Flutter", "Firebase", "Node.JS", "Postgres", "AWS"]
+    }
     ],
 
     "InConstruction.Title": "In Construction..",
@@ -178,43 +154,43 @@
     "OtherProjects.Projects": [{
             "Title": "Pokemon",
             "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
+            "demoLink": "https://projects.jacksoncuevas.com/pokemon-list",
             "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
         },
         {
             "Title": "Coming soon page",
             "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+            "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
+            "demoLink": "https://projects.jacksoncuevas.com/coming-soon-page",
             "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
         },
         {
             "Title": "Four card feature section",
             "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+            "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
+            "demoLink": "https://projects.jacksoncuevas.com/four-card-feature-section",
             "Technologies": ["Angular", "SASS", "CSS GRID"]
         },
         {
             "Title": "Social proof section",
             "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+            "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
+            "demoLink": "https://projects.jacksoncuevas.com/social-proof-section",
             "Technologies": ["Angular", "CSS GRID", "GIT"]
         },
         {
             "Title": "FAQ accordion card",
             "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/andresjosehr/faq-accordion",
-            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+            "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
+            "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
             "Technologies": ["Angular", "CSS GRID", "Angular animations"]
         },
         {
             "Title": "Profile card",
             "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/andresjosehr/profile-card-component",
-            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+            "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
+            "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
             "Technologies": ["Angular", "SASS", "GIT"]
         }
     ],
@@ -222,6 +198,4 @@
     "Contact.Title": "Connect with Me!",
     "Contact.Content": "If you're interested in discussing new opportunities, please feel free to reach out. I'll respond promptly upon receiving your message.",
     "Contact.Btn": "Say Hello"
-
-
 }

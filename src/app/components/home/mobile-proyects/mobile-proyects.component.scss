@@ -79,7 +79,8 @@
 }
 
 .owl-carousel-o{
-    width: 600px;
+    width: 350px;
+    padding: 80px;
 }
 .img-feature-proyect-container {
     display:  none;
@@ -170,8 +171,6 @@
         .justify-content-start {
             justify-content: center !important;
         }
-
-
         .proyect-info-right .proyect-box,
         .proyect-info-left .proyect-box {
             padding: 20px;
@@ -190,8 +189,8 @@
 }
 
 .img-container {
-    width: 600px;
-    max-height: 320px;
+    width: fit-content;
+    height: auto;
     overflow: auto;
     border-radius: 3px;
 }

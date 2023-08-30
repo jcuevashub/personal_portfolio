@@ -12,13 +12,11 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'andresjosehr-portfolio';
+  title = 'jacksoncuevas-portfolio';
 
   constructor(
     private titleService: Title,
     private metaService: Meta,
-    private translateService: TranslateService,
-    private location: Location,
     private languageService: LanguageService
   ) {
   }
@@ -31,7 +29,7 @@ export class AppComponent implements OnInit {
 
     this.metaService.addTags([
       { name: 'keywords', content: 'Software Engineer' },
-      { name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.' },
+      { name: 'description', content: '' },
     ]);
 
 
