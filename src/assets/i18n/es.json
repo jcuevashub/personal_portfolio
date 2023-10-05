@@ -8,37 +8,48 @@
     "Header.cvName": "Jackson_Cuevas_Resume.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 6+ años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
+    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 7+ años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
     "Banner.ActionBtn": "Saludame",
     "MainTech.Title": "Principales Habilidades & Educación",
     "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
       "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas utilizando tecnologías como HTML5, CSS3 y Angular. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
-      "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
+      "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
       "Además del desarrollo web, mi conjunto de habilidades incluye el desarrollo de aplicaciones móviles. Tengo experiencia práctica en la creación de aplicaciones móviles multiplataforma con Flutter y Android nativo."
   ],
     "Experience.Title": "Experiencia, Responsabilidades & Logros",
     "Experience.Jobs": [
         {
-            "Tab": "Freelancer",
-            "Title": "Full-Stack Software Engineer",
-            "Date": "June 2023 - Present",
+            "Tab": "Rent2Park Inc",
+            "Title": "Lead Developer",
+            "Date": "August 2023 - Present",
             "Description": [
-              "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-              "Administré un equipo distribuido de 5 desarrolladores para construir una plataforma social escalable usando React, Node.js y MongoDB, logrando miles de usuarios activos en el primer año.",
-              "Cree ceremonias y planificaciones de Scrum.",
-              "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-              "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin y Flutter.",
-              "Responsable de las revisiones de código y la calidad del código del equipo.",
-              "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-              "Proporcionar sesiones de transferencia de conocimientos entre el equipo."
+                "Supervisión Arquitectónica: Como Desarrollador Principal, superviso y tomo decisiones críticas sobre nuestra arquitectura de software. Me aseguro de que nuestro sistema sea escalable, mantenible y siga las mejores prácticas.",
+                "Mentoría y Desarrollo del Equipo: Me enorgullece fomentar el crecimiento de los desarrolladores junior en mi equipo. Esto incluye realizar revisiones de código, ofrecer sesiones de mentoría individual y guiarlos a través de desafíos técnicos.",
+                "Calidad del Código y Estándares: Me aseguro de que nuestra base de código mantenga un alto estándar de calidad. Esto implica implementar y mantener estándares de codificación, llevar a cabo revisiones regulares de código e integrar robustos marcos de pruebas y herramientas de integración continua.",
+                "Gestión de Proyectos y Delegación de Tareas: Trabajando de manera independiente o en colaboración con los gestores de proyectos, priorizo tareas, desgloso proyectos complejos en partes manejables y los asigno a los miembros del equipo según sus habilidades y expertise.",
+                "Comunicación con Interesados: Actúo como enlace entre el equipo técnico y los interesados, garantizando que las complejidades técnicas se comuniquen eficazmente y que los requisitos del proyecto se transformen con precisión en soluciones técnicas.",
+                "Investigación y Evaluación de Tecnología: Mantenerme actualizado sobre las últimas tecnologías y herramientas es crucial en mi rol. Evalúo y decido sobre la adopción de nuevas tecnologías que puedan mejorar nuestros proyectos o beneficiar a la organización en general."
+            ]
+        },
+        {
+            "Tab": "SPLIT Tech, Inc.",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "Abril 2023 - Agosto 2023 (Contractor)",
+            "Description": [
+                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+                "Desarrollo de aplicaciones móviles robustas y escalables usando Flutter, React, Node.js, Postgres y AWS",
+                "Responsable de las revisiones de código y la calidad del código del equipo.",
+                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
             ]
         },
   {
       "Tab": "SoftCube, SRL",
       "Title": "Mid-Senior Mobile Software Engineer",
-      "Date": "Janury 2021 - May 2022 (Full-Time Job)",
+      "Date": "Enero 2021 - Mayo 2022 (Full-Time Job)",
       "Description": [
         "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
         "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
@@ -51,7 +62,7 @@
   {
       "Tab": "Khensys Corp.",
       "Title": "Full Stack Software Engineer",
-      "Date": "Janury 2021 - December 2021 (Contractor)",
+      "Date": "Enero 2021 - Diciembre 2021 (Contractor)",
       "Description": [
         "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
         "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
@@ -66,7 +77,7 @@
   {
       "Tab": "Wepsys, SRL",
       "Title": "Full Stack Software Engineer",
-      "Date": "December 2017 - July 2021 (Full-Time Job)",
+      "Date": "Diciembre 2017 - Julio 2021 (Full-Time Job)",
       "Description": [
         "Desarrollo de aplicaciones web robustas y escalables utilizando .NET Core y Angular.",
         "Lideró un equipo de 3 desarrolladores para renovar el sitio de comercio electrónico de un cliente importante utilizando Angular y Node.js, lo que resultó en un aumento del 20 % en la participación de los usuarios.",
@@ -82,7 +93,7 @@
   {
       "Tab": "MINERD",
       "Title": "English Teacher",
-      "Date": "Janury 2014 - December 2020 (Part-Time Job)",
+      "Date": "Enero 2014 - Diciembre 2020 (Part-Time Job)",
       "Description": ["Enseñanza de inglés a nivel básico a una matrícula de más de 200 alumnos."]
   }
 ],
@@ -92,7 +103,7 @@
 "FeatureProjects.Label": "Proyecto destacado",
 "FeatureProjects.Projects": [{
         "Title": "Split Merchant",
-        "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+        "Description": " Una aplicación web POS React para pequeños comerciantes, gestión de pedidos, gestión de clientes y gestión de usuarios, gestión de pagos.",
         "imgs": [
             "assets/images/splitmerchant/0.png",
             "assets/images/splitmerchant/1.png",
@@ -104,7 +115,7 @@
     },
     {
         "Title": "Split Payroll",
-        "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
+        "Description": "El sistema ofrece una interfaz de usuario receptiva, servicios de backend escalables y una experiencia perfecta en varios dispositivos. con módulo de autenticación, <span class='underline'>Autenticación y autorización de usuario</span>, <span class='underline'>Gestión de empleados</span>, <span class='underline'>Gestión de salarios</span> , <span class='underline'>Gestión de préstamos</span>, <span class='underline'>Informes y análisis</span> e <span class='underline'>Impuestos y deducciones.</span>",
         "imgs": [
             "assets/images/splitloan/0.png",
             "assets/images/splitloan/1.png",
@@ -116,7 +127,7 @@
     },
     {
         "Title": "PoolChief",
-        "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
+        "Description": "PoolChief es un mercado innovador que aprovecha la tecnología para conectar a los propietarios de piscinas con los mejores profesionales locales de limpieza de piscinas.",
         "demoLink": "https://poolchief.com/",
         "imgs": [
             "assets/images/poolchief/0.png"
@@ -128,42 +139,29 @@
 
 "FeatureMobileProjects.Title": "Mobile Projects",
 "FeatureMobileProjects.Label": "Featured Project",
-"FeatureMobileProjects.Projects": [{
-        "Title": "Split Merchant",
-        "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
+"FeatureMobileProjects.Projects": [   {
+    "Title": "Rent2Park",
+    "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
+    "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores 🚙 con estacionamiento privado 🅿️ en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos 🔋.",
+    "imgs": [
+        "assets/images/rent2park/0.png",
+        "assets/images/rent2park/1.png",
+        "assets/images/rent2park/2.png",
+        "assets/images/rent2park/3.png"
+    ],
+    "Technologies": ["Flutter", "Firebase", ".Net", "Postgres", "Azure"]
+},{
+        "Title": "Split Payment",
+        "Description": "Es un sistema de pago donde puedes <span class='underline'>transferir dinero en cualquier moneda</span> a tus familiares y amigos.",
         "imgs": [
-            "assets/images/splitmerchant/0.png",
-            "assets/images/splitmerchant/1.png",
-            "assets/images/splitmerchant/2.png",
-            "assets/images/splitmerchant/3.png"
-
+            "assets/images/splitmobile/0.png",
+            "assets/images/splitmobile/1.png"
         ],
-        "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-    },
-    {
-        "Title": "Split Payroll",
-        "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
-        "imgs": [
-            "assets/images/splitloan/0.png",
-            "assets/images/splitloan/1.png",
-            "assets/images/splitloan/2.png",
-            "assets/images/splitloan/3.png",
-            "assets/images/splitloan/4.png"
-        ],
-        "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-    },
-    {
-        "Title": "PoolChief",
-        "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
-        "demoLink": "https://poolchief.com/",
-        "imgs": [
-            "assets/images/poolchief/0.png"
-        ],
-        "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
+        "Technologies": ["Flutter", "GraphQL", "Postgres", "Node.JS", "Docker", "AWS"]
     }
 ],
 
-    "OtherProjects.Title": "Mas proyectos",
+    "OtherProjects.Title": "Más proyectos",
     "OtherProjects.Projects": [{
             "Title": "Pokemon",
             "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
@@ -211,7 +209,6 @@
     "Contact.Pretitle": "Y... ¿Ahora?",
     "Contact.Title": "¡Saludame!",
     "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
-    "Contact.Btn": "Contactame"
-
-
+    "Contact.mail": "Envíame un correo",
+    "Contact.whatsapp": "Contáctame por WhatsApp"
 }

@@ -15,4 +15,12 @@ export class ContactComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  phoneNumber: string = '+18098814942';
+  defaultMessage: string = 'Hello! I have a question about your services.';
+
+  getWhatsAppLink(): string {
+    let url = 'https://wa.me/' + this.phoneNumber + '?text=' + encodeURIComponent(this.defaultMessage);
+    return url;
+  }
+
 }

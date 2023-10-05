@@ -1,6 +1,6 @@
 import { Component, OnInit, AfterViewInit } from '@angular/core';
 
-import {trigger, state, style, animate, transition, stagger, query } from "@angular/animations"
+import { trigger, state, style, animate, transition, stagger, query } from "@angular/animations"
 import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 
 @Component({
@@ -25,14 +25,20 @@ import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 })
 export class BannerComponent implements OnInit {
 
-  
-
   constructor(
     public analyticsService: AnalyticsService
   ) { }
 
-  ngOnInit(): void { 
+  ngOnInit(): void {
   }
-  
+
+  phoneNumber: string = '+18098814942';
+  defaultMessage: string = 'Hello! I have a question about your services.';
+
+  getWhatsAppLink(): string {
+    let url = 'https://wa.me/' + this.phoneNumber + '?text=' + encodeURIComponent(this.defaultMessage);
+    return url;
+  }
+
 
 }

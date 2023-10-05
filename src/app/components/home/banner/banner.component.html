@@ -13,21 +13,17 @@
           <p [innerHTML]="'Banner.Description' | translate" class="mt-4"></p>
         </div>
       </div>
-      <div class="div-btn-banner">
+      <div class="mt-5">
         <a
-          (click)="
-            analyticsService.sendAnalyticEvent(
-              'click_send_mail',
-              'banner',
-              'email'
-            )
-          "
-          href="mailto:jackson.cuevas@hotmail.com"
-          target="_black"
+          [href]="getWhatsAppLink()"
+          target="_blank"
+          target="_blank"
           class="main-btn"
+          data-aos="fade-up"
+          data-aos-duration="1000"
         >
-          {{ "Banner.ActionBtn" | translate }}
-        </a>
+          {{ "Contact.whatsapp" | translate }}</a
+        >
       </div>
     </div>
   </div>
