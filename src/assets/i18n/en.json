@@ -8,15 +8,15 @@
     "Header.cvName": "Jackson_Cuevas_Resume_English.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "As a Full Stack Software Engineer with <span class='underline'>over 7+ years of experience</span> , I deeply understand both front-end and back-end technologies. My experience spans the entire software development life cycle, from gathering requirements and designing solutions to deployment and maintenance.",
+    "Banner.Description": "So <span class='underline'>over 12+ years of experience</span>, I possess a profound understanding of both front-end and back-end technologies. My expertise extends across the full spectrum of the software development life cycle, encompassing requirements gathering, solution design, implementation, deployment, and ongoing maintenance. This comprehensive skill set enables me to effectively bridge the gap between technical and business perspectives, ensuring that the solutions I develop are not only technically sound but also align with strategic business objectives.",
     "Banner.ActionBtn": "Get in touch",
     "MainTech.Title": "Main Skills & Education",
     "SecondTech.Title": "Well known",
     "AboutMe.Title": "About me",
     
     "AboutMe.Paragraphs": [
-        "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as HTML5, CSS3 and Angular. I have a keen eye for design and usability and I am adept at converting designs into fully functional web pages that provide a seamless user experience.",
-        "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET and Node.js. Likewise, I am proficient designing database schemas, with a strong background in SQL server databases and MongoDB.",
+        "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as Angular, Flutter, and React. I have a keen eye for design and usability and I am adept at converting designs into fully functional web pages that provide a seamless user experience.",
+        "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET, Node.js and Azure. Likewise, I am proficient designing database schemas, with a strong background in SQL server databases and MongoDB.",
         "In addition to web development, my skill set includes mobile app development. I have hands-on experience in building cross-platform mobile applications using Android and Flutter."
     ],
     "Experience.Title": "Experience",
@@ -24,7 +24,7 @@
         {
             "Tab": "Rent2Park, Inc.",
             "Title": "Lead Developer",
-            "Date": "August 2023 - Present",
+            "Date": "August 2023 - Present (Full-Time Job)",
             "Description": [
               "Architectural Oversight: As the Lead Developer, I oversee and make critical decisions regarding our software architecture. I ensure our system is scalable, maintainable, and follows best practices.",
               "Mentoring and Team Development: I take pride in nurturing the growth of junior developers on my team. This includes conducting code reviews, offering one-on-one mentoring sessions, and guiding them through technical challenges.",
@@ -37,7 +37,7 @@
         {
             "Tab": "SPLIT Tech, Inc.",
             "Title": "Full-Stack Software Engineer",
-            "Date": "Apr 2023 - August 2023 (Contractor)",
+            "Date": "Apr 2023 - August 2023 (Part-Time Job)",
             "Description": [
               "Planned and managed the phases of the development life cycle of the software.",
               "Analyzed feedback data provided by end-users, architects, and tech leads.",
@@ -48,22 +48,9 @@
             ]
         },
         {
-            "Tab": "SoftCube, SRL",
-            "Title": "Full-Stack Software Engineer",
-            "Date": "Janury 2021 - May 2023 (Full-Time Job)",
-            "Description": [
-              "Planned and managed the phases of the development life cycle of the software.",
-              "Analyzed feedback data provided by end-users, architects, and tech leads.",
-              "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
-              "Responsible for code reviews and team code quality.",
-              "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
-              "Provide knowledge transfer sessions among the team."
-            ]
-        },
-        {
             "Tab": "Khensys Corp.",
             "Title": "Full Stack Software Engineer",
-            "Date": "Janury 2021 - December 2021 (Contractor)",
+            "Date": "Janury 2021 - December 2021 (Part-Time Job)",
             "Description": [
               "I spearheaded the migration of a legacy ASP.NET Web Forms application to a modern architecture using .NET Core and Angular, resulting in a 45% boost in performance and a 25% reduction in maintenance costs.",
               "Develop .NET-based web applications and products sold by the company.",
@@ -76,9 +63,22 @@
             ]
         },
         {
+            "Tab": "SoftCube, SRL",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "January 2021 - May 2023 (Part-Time Job)",
+            "Description": [
+              "Planned and managed the phases of the development life cycle of the software.",
+              "Analyzed feedback data provided by end-users, architects, and tech leads.",
+              "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
+              "Responsible for code reviews and team code quality.",
+              "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
+              "Provide knowledge transfer sessions among the team."
+            ]
+        },
+        {
             "Tab": "Wepsys, SRL",
             "Title": "Full Stack Software Engineer",
-            "Date": "December 2017 - July 2021 (Full Time Job)",
+            "Date": "December 2017 - July 2021 (Full-Time Job)",
             "Description": [
               "Development of robust and scalable web applications using .NET Framework, C#, and Angular.",
               "Led a team of 3 developers to revamp a major client’s e-commerce site using Angular and Node.js, resulting in a 20% increase in user engagement.",
@@ -149,7 +149,7 @@
                 "assets/images/rent2park/2.png",
                 "assets/images/rent2park/3.png"
             ],
-            "Technologies": ["Flutter", "Firebase", "Node.JS", "Postgres", "AWS"]
+            "Technologies": ["Flutter", "Firebase", ".Net", "Postgres", "Azure"]
         },
         {
         "Title": "Split Payment",

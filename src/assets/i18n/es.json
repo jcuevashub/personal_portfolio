@@ -8,13 +8,13 @@
     "Header.cvName": "Jackson_Cuevas_Resume.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Como ingeniero de software Full Stack con <span class='underline'>más de 7+ años de experiencia</span>, Entiendo profundamente las tecnologías front-end y back-end. Mi experiencia abarca todo el ciclo de vida del desarrollo de software, desde la recopilación de requisitos y el diseño de soluciones hasta la implementación y el mantenimiento.",
+    "Banner.Description": "Como Ingeniero de Software con <span class='underline'>más de 12+ años de experiencia</span>, poseo un profundo entendimiento tanto de las tecnologías de front-end como de back-end. Mi experiencia abarca todo el espectro del ciclo de vida del desarrollo de software, incluyendo la recopilación de requisitos, el diseño de soluciones, la implementación, el despliegue y el mantenimiento continuo. Este conjunto de habilidades integrales me permite cerrar la brecha entre las perspectivas técnicas y comerciales, asegurando que las soluciones que desarrollo no solo sean técnicamente sólidas, sino que también estén alineadas con los objetivos estratégicos del negocio.",
     "Banner.ActionBtn": "Saludame",
     "MainTech.Title": "Principales Habilidades & Educación",
     "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-      "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas utilizando tecnologías como HTML5, CSS3 y Angular. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
+      "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
       "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
       "Además del desarrollo web, mi conjunto de habilidades incluye el desarrollo de aplicaciones móviles. Tengo experiencia práctica en la creación de aplicaciones móviles multiplataforma con Flutter y Android nativo."
   ],
@@ -23,7 +23,7 @@
         {
             "Tab": "Rent2Park Inc",
             "Title": "Lead Developer",
-            "Date": "August 2023 - Present",
+            "Date": "August 2023 - Actual (Full-Time Job)",
             "Description": [
                 "Supervisión Arquitectónica: Como Desarrollador Principal, superviso y tomo decisiones críticas sobre nuestra arquitectura de software. Me aseguro de que nuestro sistema sea escalable, mantenible y siga las mejores prácticas.",
                 "Mentoría y Desarrollo del Equipo: Me enorgullece fomentar el crecimiento de los desarrolladores junior en mi equipo. Esto incluye realizar revisiones de código, ofrecer sesiones de mentoría individual y guiarlos a través de desafíos técnicos.",
@@ -36,7 +36,7 @@
         {
             "Tab": "SPLIT Tech, Inc.",
             "Title": "Full-Stack Software Engineer",
-            "Date": "Abril 2023 - Agosto 2023 (Contractor)",
+            "Date": "Abril 2023 - Agosto 2023 (Part-Time Job)",
             "Description": [
                 "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
                 "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
@@ -46,34 +46,34 @@
                 "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
             ]
         },
-  {
-      "Tab": "SoftCube, SRL",
-      "Title": "Mid-Senior Mobile Software Engineer",
-      "Date": "Enero 2021 - Mayo 2022 (Full-Time Job)",
-      "Description": [
-        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-        "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
-        "Responsable de las revisiones de código y la calidad del código del equipo.",
-        "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-        "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
-      ]
-  },
-  {
-      "Tab": "Khensys Corp.",
-      "Title": "Full Stack Software Engineer",
-      "Date": "Enero 2021 - Diciembre 2021 (Contractor)",
-      "Description": [
-        "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
-        "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
-        "Migrar dos proyectos realizados en .net framework 3.5 a .Net Core.",
-        "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-        "Proporcioné liderazgo técnico a los compañeros de equipo a través de entrenamiento y tutoría.",
-        "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-        "Responsable de las revisiones de código y la calidad del código del equipo.",
-        "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos."
-      ]
-  },
+        {
+            "Tab": "Khensys Corp.",
+            "Title": "Full Stack Software Engineer",
+            "Date": "Enero 2021 - Diciembre 2021 (Part-Time Job)",
+            "Description": [
+                "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
+                "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
+                "Migrar dos proyectos realizados en .net framework 3.5 a .Net Core.",
+                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+                "Proporcioné liderazgo técnico a los compañeros de equipo a través de entrenamiento y tutoría.",
+                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+                "Responsable de las revisiones de código y la calidad del código del equipo.",
+                "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos."
+            ]
+        },
+        {
+            "Tab": "SoftCube, SRL",
+            "Title": "Mid-Senior Mobile Software Engineer",
+            "Date": "Enero 2021 - Mayo 2022 (Part-Time Job)",
+            "Description": [
+            "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+            "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+            "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
+            "Responsable de las revisiones de código y la calidad del código del equipo.",
+            "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+            "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+            ]
+        },
   {
       "Tab": "Wepsys, SRL",
       "Title": "Full Stack Software Engineer",
