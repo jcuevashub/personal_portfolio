@@ -2,94 +2,68 @@
   <div [@animateFooter]>
     <ul class="footer-left-bar d-none d-md-block">
       <li>
-        <a
-          (click)="
+        <a (click)="
             analyticsService.sendAnalyticEvent(
               'click_github',
               'footer',
               'github'
             )
-          "
-          href="https://github.com/jcuevashub"
-          target="_blank"
-        >
+          " href="https://github.com/jcuevashub" target="_blank">
           <i class="fab fa-github"></i>
         </a>
       </li>
       <li>
-        <a
-          (click)="
+        <a (click)="
             analyticsService.sendAnalyticEvent(
               'click_linkedin',
               'footer',
               'github'
             )
-          "
-          href="https://twitter.com/jackson_cuevas"
-          target="_blank"
-        >
+          " href="https://twitter.com/jackson_cuevas" target="_blank">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
       <li>
-        <a
-          (click)="
+        <a (click)="
             analyticsService.sendAnalyticEvent(
               'click_linkedin',
               'footer',
               'github'
             )
-          "
-          href="https://www.linkedin.com/in/jackson-cuevas-49a72413b/"
-          target="_blank"
-        >
+          " href="https://www.linkedin.com/in/jackson-cuevas-49a72413b/" target="_blank">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
     </ul>
     <div class="footer-right-bar d-none d-md-block">
-      <a
-        (click)="
+      <a (click)="
           analyticsService.sendAnalyticEvent(
             'click_send_mail',
             'footer',
             'email'
           )
-        "
-        href="mailto:jackson.cuevas@hotmail.com"
-        target="_blank"
-        >jackson.cuevas@hotmail.com
+        " href="mailto:jackson.cuevas@hotmail.com" target="_blank">jackson.cuevas@hotmail.com
       </a>
     </div>
   </div>
 
   <div class="footer-credits text-center">
-    <a
-      (click)="
+    <a (click)="
         analyticsService.sendAnalyticEvent(
           'click_github_portfolio_andresjose',
           'footer',
           'click'
         )
-      "
-      href="https://github.com/jcuevashub/personal_portfolio"
-      target="_blank"
-      rel="nofollow noopener noreferrer"
-    >
+      " href="https://github.com/jcuevashub/personal_portfolio" target="_blank" rel="nofollow noopener noreferrer">
       <div>Built with Angular by Jackson Cuevas</div>
     </a>
-    <a
-      (click)="
+    <a (click)="
         analyticsService.sendAnalyticEvent(
           'click_github_portfolio_brittany',
           'footer',
           'click'
         )
-      "
-      href="https://github.com/bchiang7/v4"
-      target="_blank"
-      rel="nofollow noopener noreferrer"
-    >
+      " href="https://github.com/bchiang7/v4" target="_blank" rel="nofollow noopener noreferrer">
       <div class="mt-2">Designed by Brittany Chiang</div>
     </a>
   </div>

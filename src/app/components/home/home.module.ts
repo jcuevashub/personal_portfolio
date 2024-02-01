@@ -8,8 +8,7 @@ import { BannerComponent } from './banner/banner.component';
 import { ContactComponent } from './contact/contact.component';
 import { JobsComponent } from './jobs/jobs.component';
 import { MoreProyectsComponent } from './more-proyects/more-proyects.component';
-import { ProyectsComponent } from './proyects/proyects.component';
-import { NgbModule, NgbNav, NgbNavModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbNavModule } from '@ng-bootstrap/ng-bootstrap';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { MobileProyectsComponent } from './mobile-proyects/mobile-proyects.component';
@@ -26,7 +25,6 @@ export function HttpLoaderFactory(http: HttpClient) {
     BannerComponent,
     AboutComponent,
     JobsComponent,
-    ProyectsComponent,
     MobileProyectsComponent,
     MoreProyectsComponent,
     ContactComponent,

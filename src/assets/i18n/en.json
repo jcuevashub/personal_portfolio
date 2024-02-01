@@ -1,23 +1,20 @@
 {
-
-    "Header.Item1" : "About me",
-    "Header.Item2" : "Experience",
-    "Header.Item3" : "Projects",
-    "Header.Item4" : "Contact",
-    "Header.cvBtn" : "Resume",
-    "Header.cvName": "Jackson_Cuevas_Resume_English.pdf",
-
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "So <span class='underline'>over 12+ years of experience</span>, I possess a profound understanding of both front-end and back-end technologies. My expertise extends across the full spectrum of the software development life cycle, encompassing requirements gathering, solution design, implementation, deployment, and ongoing maintenance. This comprehensive skill set enables me to effectively bridge the gap between technical and business perspectives, ensuring that the solutions I develop are not only technically sound but also align with strategic business objectives.",
+    "Banner.Description": "As a Mobile Software Engineer with <span class='underline'>over 8+ years of experience</span>, I have a comprehensive understanding of both client-side and server-side technologies. My expertise covers the entire software development life cycle, including requirements analysis, system design, coding, testing, deployment, and maintenance. This extensive experience enables me to integrate technical and business perspectives, ensuring that my mobile solutions are technically sound and aligned with business objectives.",
     "Banner.ActionBtn": "Get in touch",
     "MainTech.Title": "Main Skills & Education",
     "SecondTech.Title": "Well known",
     "AboutMe.Title": "About me",
-    
     "AboutMe.Paragraphs": [
-        "My expertise in front-end development includes creating interactive, responsive user interfaces using technologies such as Angular, Flutter, and React. I have a keen eye for design and usability and I am adept at converting designs into fully functional web pages that provide a seamless user experience.",
-        "I have extensive experience developing scalable and efficient APIs and services on the back-end using technologies like .NET, Node.js and Azure. Likewise, I am proficient designing database schemas, with a strong background in SQL server databases and MongoDB.",
-        "In addition to web development, my skill set includes mobile app development. I have hands-on experience in building cross-platform mobile applications using Android and Flutter."
+        "In front-end development, I excel in creating engaging and responsive mobile interfaces. I am proficient in using cutting-edge  technologies such as <span class='underline'> Android, iOS, and Flutter</span> that allow me to build cross-platform mobile applications that offer a native-like user experience.",
+        "I possess a keen sense of design and usability, which ensures that each app I develop is intuitive and user-friendly. My skill in transforming complex designs into dynamic and efficient mobile applications demonstrates my commitment to delivering exceptional user experiences.",
+        "I have experience developing scalable and efficient APIs and services on the back end using technologies like .NET Core and Azure."
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
@@ -26,116 +23,41 @@
             "Title": "Lead Developer",
             "Date": "August 2023 - Present (Full-Time Job)",
             "Description": [
-              "Architectural Oversight: As the Lead Developer, I oversee and make critical decisions regarding our software architecture. I ensure our system is scalable, maintainable, and follows best practices.",
-              "Mentoring and Team Development: I take pride in nurturing the growth of junior developers on my team. This includes conducting code reviews, offering one-on-one mentoring sessions, and guiding them through technical challenges.",
-              "Code Quality and Standards: I ensure that our codebase maintains a high standard of quality. This involves implementing and upholding coding standards, conducting regular code reviews, and integrating robust testing frameworks and continuous integration tools.",
-              "Project Management and Task Delegation: Working either independently or in tandem with project managers, I prioritize tasks, break down intricate projects into manageable pieces, and assign them to team members based on their specific skills and expertise.",
-              "Stakeholder Communication: I act as a liaison between the technical team and stakeholders, ensuring that technical nuances are effectively communicated and that project requirements are accurately transformed into technical solutions.",
-              "Research and Technology Evaluation: Staying abreast of the latest technologies and tools is crucial in my role. I evaluate and decide on the adoption of new technologies that can enhance our projects or benefit the organization as a whole."
+                "Architectural Oversight: As the Lead Developer, I oversee and make critical decisions regarding our software architecture. I ensure our system is scalable, maintainable, and follows best practices.",
+                "Mentoring and Team Development: I take pride in nurturing the growth of junior developers on my team. This includes conducting code reviews, offering one-on-one mentoring sessions, and guiding them through technical challenges.",
+                "Code Quality and Standards: I ensure that our codebase maintains a high standard of quality. This involves implementing and upholding coding standards, conducting regular code reviews, and integrating robust testing frameworks and continuous integration tools.",
+                "Project Management and Task Delegation: Working either independently or in tandem with project managers, I prioritize tasks, break down intricate projects into manageable pieces, and assign them to team members based on their specific skills and expertise.",
+                "Stakeholder Communication: I act as a liaison between the technical team and stakeholders, ensuring that technical nuances are effectively communicated and that project requirements are accurately transformed into technical solutions.",
+                "Research and Technology Evaluation: Staying abreast of the latest technologies and tools is crucial in my role. I evaluate and decide on the adoption of new technologies that can enhance our projects or benefit the organization as a whole."
             ]
         },
         {
             "Tab": "SPLIT Tech, Inc.",
             "Title": "Full-Stack Software Engineer",
-            "Date": "Apr 2023 - August 2023 (Part-Time Job)",
+            "Date": "Apr 2022 - Aug 2023 (Part-Time Job)",
             "Description": [
-              "Planned and managed the phases of the development life cycle of the software.",
-              "Analyzed feedback data provided by end-users, architects, and tech leads.",
-              "Development of robust and scalable mobile applications using Flutter, React, Node.js, Postgres y AWS",
-              "Responsible for code reviews and team code quality.",
-              "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
-              "Provide knowledge transfer sessions among the team."
-            ]
-        },
-        {
-            "Tab": "Khensys Corp.",
-            "Title": "Full Stack Software Engineer",
-            "Date": "Janury 2021 - December 2021 (Part-Time Job)",
-            "Description": [
-              "I spearheaded the migration of a legacy ASP.NET Web Forms application to a modern architecture using .NET Core and Angular, resulting in a 45% boost in performance and a 25% reduction in maintenance costs.",
-              "Develop .NET-based web applications and products sold by the company.",
-              "Migrate two projects made in .net framework 3.5 to .Net Core.",
-              "Planned and managed the phases of the development life cycle of the software.",
-              "Provided technical leadership to teammates through coaching and mentorship.",
-              "Analyzed feedback data provided by end-users, architects, and tech leads.",
-              "Responsible for code reviews and team code quality.",
-              "Coding and configuration on different application servers and database engines."
+                "Planned and managed the phases of the development life cycle of the software.",
+                "Analyzed feedback data provided by end-users, architects, and tech leads.",
+                "Development of robust and scalable mobile applications using Flutter, React, Node.js, Postgres y AWS",
+                "Responsible for code reviews and team code quality.",
+                "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
+                "Provide knowledge transfer sessions among the team."
             ]
         },
         {
             "Tab": "SoftCube, SRL",
             "Title": "Full-Stack Software Engineer",
-            "Date": "January 2021 - May 2023 (Part-Time Job)",
+            "Date": "Jan 2018 - Apr 2023 (Full-Time Job)",
             "Description": [
-              "Planned and managed the phases of the development life cycle of the software.",
-              "Analyzed feedback data provided by end-users, architects, and tech leads.",
-              "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
-              "Responsible for code reviews and team code quality.",
-              "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
-              "Provide knowledge transfer sessions among the team."
+                "Planned and managed the phases of the development life cycle of the software.",
+                "Analyzed feedback data provided by end-users, architects, and tech leads.",
+                "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
+                "Responsible for code reviews and team code quality.",
+                "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
+                "Provide knowledge transfer sessions among the team."
             ]
-        },
-        {
-            "Tab": "Wepsys, SRL",
-            "Title": "Full Stack Software Engineer",
-            "Date": "December 2017 - July 2021 (Full-Time Job)",
-            "Description": [
-              "Development of robust and scalable web applications using .NET Framework, C#, and Angular.",
-              "Led a team of 3 developers to revamp a major client’s e-commerce site using Angular and Node.js, resulting in a 20% increase in user engagement.",
-              "Development of robust and scalable mobile applications using Android with Kotlin, and Flutter.",
-              "Responsible for code reviews and team code quality.",
-              "Manage customer environment installations.",
-              "Coding and configuration on different application servers and database engines.",
-              "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
-              "Provide knowledge transfer sessions among the team.",
-              "Mentor new team members as part of their onboarding processes"
-            ]
-        },
-        {
-            "Tab": "MINERD",
-            "Title": "English Teacher",
-            "Date": "Janury 2014 - December 2020 (Part-Time Job)",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
         }
     ],
-
-    "FeatureProjects.Title": "Web Projects",
-    "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [{
-            "Title": "Split Merchant",
-            "Description": "A POS React web app for small merchants, <span class='underline'>order management</span>, <span class='underline'>customer management</span>, and <span class='underline'>user management</span>, <span class='underline'>payment management</span>.",
-            "imgs": [
-                "assets/images/splitmerchant/0.png",
-                "assets/images/splitmerchant/1.png",
-                "assets/images/splitmerchant/2.png",
-                "assets/images/splitmerchant/3.png"
-
-            ],
-            "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-        },
-        {
-            "Title": "Split Payroll",
-            "Description": "The system offers a responsive user interface, scalable backend services, and a seamless experience across various devices. with auth module, <span class='underline'>User Authentication & Authorization</span>, <span class='underline'>Employee Management</span>, <span class='underline'>Salary Management</span>, <span class='underline'>Loan Management</span>, <span class='underline'>Reports & Analytics</span>, and <span class='underline'>Taxation & Deductions.</span>",
-            "imgs": [
-                "assets/images/splitloan/0.png",
-                "assets/images/splitloan/1.png",
-                "assets/images/splitloan/2.png",
-                "assets/images/splitloan/3.png",
-                "assets/images/splitloan/4.png"
-            ],
-            "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-        },
-        {
-            "Title": "PoolChief",
-            "Description": "PoolChief is an innovative marketplace that leverages technology to connect swimming pool owners with the best local pool cleaning pros.",
-            "demoLink": "https://poolchief.com/",
-            "imgs": [
-                "assets/images/poolchief/0.png"
-            ],
-            "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
-        }
-    ],
-
     "FeatureMobileProjects.Title": "Mobile Projects",
     "FeatureMobileProjects.Label": "Featured Project",
     "FeatureMobileProjects.Projects": [
@@ -149,63 +71,100 @@
                 "assets/images/rent2park/2.png",
                 "assets/images/rent2park/3.png"
             ],
-            "Technologies": ["Flutter", "Firebase", ".Net", "Postgres", "Azure"]
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                ".Net",
+                "Postgres",
+                "Azure"
+            ]
         },
         {
-        "Title": "Split Payment",
-        "Description": "It's a payment system where you can  <span class='underline'> transfer money in any currency</span> to your family and friends",
-        "imgs": [
-            "assets/images/splitmobile/0.png",
-            "assets/images/splitmobile/1.png"
-        ],
-        "Technologies": ["Flutter", "Firebase", "Node.JS", "Postgres", "AWS"]
-    }
+            "Title": "Split Payment",
+            "Description": "It's a payment system where you can  <span class='underline'> transfer money in any currency</span> to your family and friends",
+            "imgs": [
+                "assets/images/splitmobile/0.png",
+                "assets/images/splitmobile/1.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                "Node.JS",
+                "Postgres",
+                "AWS"
+            ]
+        }
     ],
-
     "InConstruction.Title": "In Construction..",
-
     "OtherProjects.Title": "More projects",
-    "OtherProjects.Projects": [{
+    "OtherProjects.Projects": [
+        {
             "Title": "Pokemon",
             "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
             "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
             "demoLink": "https://projects.jacksoncuevas.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Coming soon page",
             "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
             "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
             "demoLink": "https://projects.jacksoncuevas.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form"
+            ]
         },
         {
             "Title": "Four card feature section",
             "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
             "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
             "demoLink": "https://projects.jacksoncuevas.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID"
+            ]
         },
         {
             "Title": "Social proof section",
             "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
             "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
             "demoLink": "https://projects.jacksoncuevas.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "GIT"
+            ]
         },
         {
             "Title": "FAQ accordion card",
             "Description": "FAQ accordion with logic and animations made in Angular.",
             "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
             "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "Angular animations"
+            ]
         },
         {
             "Title": "Profile card",
             "Description": "Simple one-page design that features a profile letter with basic information about a person.",
             "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
             "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "GIT"
+            ]
         }
     ],
     "Contact.Pretitle": "What’s Next",

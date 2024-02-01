@@ -17,7 +17,7 @@ export class ProyectsComponent implements OnInit {
     navSpeed: 700,
     items: 1,
     autoplay: true,
-    autoplayTimeout:3000
+    autoplayTimeout: 3000
   }
 
   @ViewChild('imgContainer') imgContainer: ElementRef;
@@ -33,13 +33,13 @@ export class ProyectsComponent implements OnInit {
 
   }
 
-debug(){
+  debug() {
 
-  this.imgContainer.nativeElement.scroll({
-    top: this.imgContainer.nativeElement.scrollHeight,
-    left: 0,
-    behavior: 'smooth',    
-  });
-}
+    this.imgContainer.nativeElement.scroll({
+      top: this.imgContainer.nativeElement.scrollHeight,
+      left: 0,
+      behavior: 'smooth',
+    });
+  }
 
 }

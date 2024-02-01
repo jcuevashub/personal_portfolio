@@ -3,7 +3,7 @@
     <div class="section-box">
       <div class="mb-4" data-aos="fade-up" data-aos-duration="1000">
         <h3 class="contact-pre-title big-subtitle">
-          05. {{ "Contact.Pretitle" | translate }}
+          04. {{ "Contact.Pretitle" | translate }}
         </h3>
         <h4 class="e-font contact-title big-title">
           {{ "Contact.Title" | translate }}
@@ -13,34 +13,21 @@
         {{ "Contact.Content" | translate }}
       </p>
       <div class="mt-5">
-        <a
-          (click)="
+        <a (click)="
             analyticsService.sendAnalyticEvent(
               'click_send_mail',
               'contact',
               'email'
             )
-          "
-          href="mailto:jackson.cuevas@hotmail.com"
-          target="_blank"
-          class="main-btn"
-          data-aos="fade-up"
-          data-aos-duration="1000"
-        >
+          " href="mailto:jackson.cuevas@hotmail.com" target="_blank" class="main-btn" data-aos="fade-up"
+          data-aos-duration="1000">
           {{ "Contact.mail" | translate }}
         </a>
       </div>
       <div class="mt-5">
-        <a
-          [href]="getWhatsAppLink()"
-          target="_blank"
-          target="_blank"
-          class="main-btn"
-          data-aos="fade-up"
-          data-aos-duration="1000"
-        >
-          {{ "Contact.whatsapp" | translate }}</a
-        >
+        <a [href]="getWhatsAppLink()" target="_blank" target="_blank" class="main-btn" data-aos="fade-up"
+          data-aos-duration="1000">
+          {{ "Contact.whatsapp" | translate }}</a>
       </div>
     </div>
   </div>

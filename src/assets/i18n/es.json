@@ -1,23 +1,21 @@
 {
-
     "Header.Item1": "Acerca de mi",
     "Header.Item2": "Experiencia",
     "Header.Item3": "Proyectos",
     "Header.Item4": "Contacto",
     "Header.cvBtn": "Curriculum",
-    "Header.cvName": "Jackson_Cuevas_Resume.pdf",
-
+    "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Como Ingeniero de Software con <span class='underline'>más de 12+ años de experiencia</span>, poseo un profundo entendimiento tanto de las tecnologías de front-end como de back-end. Mi experiencia abarca todo el espectro del ciclo de vida del desarrollo de software, incluyendo la recopilación de requisitos, el diseño de soluciones, la implementación, el despliegue y el mantenimiento continuo. Este conjunto de habilidades integrales me permite cerrar la brecha entre las perspectivas técnicas y comerciales, asegurando que las soluciones que desarrollo no solo sean técnicamente sólidas, sino que también estén alineadas con los objetivos estratégicos del negocio.",
+    "Banner.Description": "Como ingeniero de software móvil con <span class='underline'>más de 8+ años de experiencia</span>, Tengo un amplio conocimiento de las tecnologías del lado del cliente y del lado del servidor. Mi experiencia cubre todo el ciclo de vida del desarrollo de software, incluido el análisis de requisitos, diseño de sistemas, codificación, pruebas, implementación y mantenimiento. Esta amplia experiencia me permite integrar perspectivas técnicas y comerciales, asegurando que mis soluciones móviles sean técnicamente sólidas y alineadas con los objetivos del negocio.",
     "Banner.ActionBtn": "Saludame",
     "MainTech.Title": "Principales Habilidades & Educación",
     "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-      "Mi experiencia en el desarrollo front-end incluye la creación de interfaces de usuario interactivas y reactivas. Tengo buen ojo para el diseño y la usabilidad y soy experto en convertir diseños en páginas web completamente funcionales que brindan una experiencia de usuario perfecta.",
-      "Tengo una amplia experiencia en el desarrollo de API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET y Node.js. Asimismo, soy competente en la optimización de consultas de bases de datos y el diseño de esquemas de bases de datos, con una sólida experiencia en SQL Server, Postgres y MongoDB.",
-      "Además del desarrollo web, mi conjunto de habilidades incluye el desarrollo de aplicaciones móviles. Tengo experiencia práctica en la creación de aplicaciones móviles multiplataforma con Flutter y Android nativo."
-  ],
+        "En el desarrollo front-end, me destaco en la creación de interfaces móviles atractivas y responsivas. Soy competente en el uso de tecnologías de vanguardia como <span class='underline'> Android, iOS y Flutter</span> que me permiten crear aplicaciones móviles multiplataforma que ofrecen una experiencia de usuario similar a la nativa.",
+        "Poseo un agudo sentido del diseño y la usabilidad, lo que garantiza que cada aplicación que desarrollo sea intuitiva y fácil de usar. Mi habilidad para transformar diseños complejos en aplicaciones móviles dinámicas y eficientes demuestra mi compromiso de brindar experiencias de usuario excepcionales.",
+        "Tengo experiencia desarrollando API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Azure."
+    ],
     "Experience.Title": "Experiencia, Responsabilidades & Logros",
     "Experience.Jobs": [
         {
@@ -36,7 +34,7 @@
         {
             "Tab": "SPLIT Tech, Inc.",
             "Title": "Full-Stack Software Engineer",
-            "Date": "Abril 2023 - Agosto 2023 (Part-Time Job)",
+            "Date": "Abril 2022 - Agosto 2023 (Part-Time Job)",
             "Description": [
                 "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
                 "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
@@ -47,165 +45,128 @@
             ]
         },
         {
-            "Tab": "Khensys Corp.",
-            "Title": "Full Stack Software Engineer",
-            "Date": "Enero 2021 - Diciembre 2021 (Part-Time Job)",
+            "Tab": "SoftCube, SRL",
+            "Title": "Mid-Senior Mobile Software Engineer",
+            "Date": "Enero 2018 - Mayo 2023 (Full-Time Job)",
             "Description": [
-                "Encabecé la migración de una aplicación ASP.NET Web Forms heredada a una arquitectura moderna usando .NET Core y Angular, lo que resultó en un aumento del 45 % en el rendimiento y una reducción del 25 % en los costos de mantenimiento.",
-                "Desarrollar aplicaciones web basadas en .NET y productos vendidos por la empresa.",
-                "Migrar dos proyectos realizados en .net framework 3.5 a .Net Core.",
                 "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-                "Proporcioné liderazgo técnico a los compañeros de equipo a través de entrenamiento y tutoría.",
                 "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+                "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
                 "Responsable de las revisiones de código y la calidad del código del equipo.",
-                "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos."
+                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+            ]
+        }
+    ],
+    "FeatureMobileProjects.Title": "Mobile Projects",
+    "FeatureMobileProjects.Label": "Featured Project",
+    "FeatureMobileProjects.Projects": [
+        {
+            "Title": "Rent2Park",
+            "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
+            "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores 🚙 con estacionamiento privado 🅿️ en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos 🔋.",
+            "imgs": [
+                "assets/images/rent2park/0.png",
+                "assets/images/rent2park/1.png",
+                "assets/images/rent2park/2.png",
+                "assets/images/rent2park/3.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                ".Net",
+                "Postgres",
+                "Azure"
             ]
         },
         {
-            "Tab": "SoftCube, SRL",
-            "Title": "Mid-Senior Mobile Software Engineer",
-            "Date": "Enero 2021 - Mayo 2022 (Part-Time Job)",
-            "Description": [
-            "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-            "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-            "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
-            "Responsable de las revisiones de código y la calidad del código del equipo.",
-            "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-            "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+            "Title": "Split Payment",
+            "Description": "Es un sistema de pago donde puedes <span class='underline'>transferir dinero en cualquier moneda</span> a tus familiares y amigos.",
+            "imgs": [
+                "assets/images/splitmobile/0.png",
+                "assets/images/splitmobile/1.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "GraphQL",
+                "Postgres",
+                "Node.JS",
+                "Docker",
+                "AWS"
             ]
-        },
-  {
-      "Tab": "Wepsys, SRL",
-      "Title": "Full Stack Software Engineer",
-      "Date": "Diciembre 2017 - Julio 2021 (Full-Time Job)",
-      "Description": [
-        "Desarrollo de aplicaciones web robustas y escalables utilizando .NET Core y Angular.",
-        "Lideró un equipo de 3 desarrolladores para renovar el sitio de comercio electrónico de un cliente importante utilizando Angular y Node.js, lo que resultó en un aumento del 20 % en la participación de los usuarios.",
-        "Desarrollo y mantenimiento de aplicaciones móviles robustas y escalables usando Android con Kotlin",
-        "Responsable de las revisiones de código y la calidad del código del equipo.",
-        "Gestionar las instalaciones del entorno del cliente.",
-        "Codificación y configuración en diferentes servidores de aplicaciones y motores de base de datos.",
-        "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-        "Proporcionar sesiones de transferencia de conocimiento entre el equipo.",
-        "Asesorar a los nuevos miembros del equipo como parte de sus procesos de incorporación."
-      ]
-  },
-  {
-      "Tab": "MINERD",
-      "Title": "English Teacher",
-      "Date": "Enero 2014 - Diciembre 2020 (Part-Time Job)",
-      "Description": ["Enseñanza de inglés a nivel básico a una matrícula de más de 200 alumnos."]
-  }
-],
-
-    
-"FeatureProjects.Title": "Proyectos Web",
-"FeatureProjects.Label": "Proyecto destacado",
-"FeatureProjects.Projects": [{
-        "Title": "Split Merchant",
-        "Description": " Una aplicación web POS React para pequeños comerciantes, gestión de pedidos, gestión de clientes y gestión de usuarios, gestión de pagos.",
-        "imgs": [
-            "assets/images/splitmerchant/0.png",
-            "assets/images/splitmerchant/1.png",
-            "assets/images/splitmerchant/2.png",
-            "assets/images/splitmerchant/3.png"
-
-        ],
-        "Technologies": ["React", "GraphQL", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-    },
-    {
-        "Title": "Split Payroll",
-        "Description": "El sistema ofrece una interfaz de usuario receptiva, servicios de backend escalables y una experiencia perfecta en varios dispositivos. con módulo de autenticación, <span class='underline'>Autenticación y autorización de usuario</span>, <span class='underline'>Gestión de empleados</span>, <span class='underline'>Gestión de salarios</span> , <span class='underline'>Gestión de préstamos</span>, <span class='underline'>Informes y análisis</span> e <span class='underline'>Impuestos y deducciones.</span>",
-        "imgs": [
-            "assets/images/splitloan/0.png",
-            "assets/images/splitloan/1.png",
-            "assets/images/splitloan/2.png",
-            "assets/images/splitloan/3.png",
-            "assets/images/splitloan/4.png"
-        ],
-        "Technologies": ["React", "MUI", "Postgres", "Node.JS", "Docker", "AWS"]
-    },
-    {
-        "Title": "PoolChief",
-        "Description": "PoolChief es un mercado innovador que aprovecha la tecnología para conectar a los propietarios de piscinas con los mejores profesionales locales de limpieza de piscinas.",
-        "demoLink": "https://poolchief.com/",
-        "imgs": [
-            "assets/images/poolchief/0.png"
-        ],
-        "Technologies": ["Angular", "Firebase", "Angular Material", "Node.JS"]
-    }
-],
-"InConstruction.Title": "En construcción..",
-
-"FeatureMobileProjects.Title": "Mobile Projects",
-"FeatureMobileProjects.Label": "Featured Project",
-"FeatureMobileProjects.Projects": [   {
-    "Title": "Rent2Park",
-    "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
-    "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores 🚙 con estacionamiento privado 🅿️ en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos 🔋.",
-    "imgs": [
-        "assets/images/rent2park/0.png",
-        "assets/images/rent2park/1.png",
-        "assets/images/rent2park/2.png",
-        "assets/images/rent2park/3.png"
+        }
     ],
-    "Technologies": ["Flutter", "Firebase", ".Net", "Postgres", "Azure"]
-},{
-        "Title": "Split Payment",
-        "Description": "Es un sistema de pago donde puedes <span class='underline'>transferir dinero en cualquier moneda</span> a tus familiares y amigos.",
-        "imgs": [
-            "assets/images/splitmobile/0.png",
-            "assets/images/splitmobile/1.png"
-        ],
-        "Technologies": ["Flutter", "GraphQL", "Postgres", "Node.JS", "Docker", "AWS"]
-    }
-],
-
     "OtherProjects.Title": "Más proyectos",
-    "OtherProjects.Projects": [{
+    "OtherProjects.Projects": [
+        {
             "Title": "Pokemon",
             "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
             "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
             "demoLink": "https://proyectos.jacksoncuevas.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Coming soon page",
             "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
             "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
             "demoLink": "https://proyectos.jacksoncuevas.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form"
+            ]
         },
         {
             "Title": "Four card feature section",
             "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
             "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
             "demoLink": "https://proyectos.jacksoncuevas.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID"
+            ]
         },
         {
             "Title": "Social proof section",
             "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
             "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
             "demoLink": "https://proyectos.jacksoncuevas.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "GIT"
+            ]
         },
         {
             "Title": "FAQ accordion card",
             "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
             "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
             "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "Angular animations"
+            ]
         },
         {
             "Title": "Profile card",
             "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
             "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
             "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "GIT"
+            ]
         }
     ],
-
     "Contact.Pretitle": "Y... ¿Ahora?",
     "Contact.Title": "¡Saludame!",
     "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
