@@ -1,0 +1,175 @@
+{
+    "Header.Item1": "Acerca de mi",
+    "Header.Item2": "Experiencia",
+    "Header.Item3": "Proyectos",
+    "Header.Item4": "Contacto",
+    "Header.cvBtn": "Curriculum",
+    "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
+    "Banner.Pretitle": "Hola! Mi nombre es",
+    "Banner.Description": "Como ingeniero de software móvil con <span class='underline'>más de 8+ años de experiencia</span>, Tengo un amplio conocimiento de las tecnologías del lado del cliente y del lado del servidor. Mi experiencia cubre todo el ciclo de vida del desarrollo de software, incluido el análisis de requisitos, diseño de sistemas, codificación, pruebas, implementación y mantenimiento. Esta amplia experiencia me permite integrar perspectivas técnicas y comerciales, asegurando que mis soluciones móviles sean técnicamente sólidas y alineadas con los objetivos del negocio.",
+    "Banner.ActionBtn": "Saludame",
+    "MainTech.Title": "Principales Habilidades & Educación",
+    "SecondTech.Title": "Proeficiente",
+    "AboutMe.Title": "Acerca de mi",
+    "AboutMe.Paragraphs": [
+        "En el desarrollo front-end, me destaco en la creación de interfaces móviles atractivas y responsivas. Soy competente en el uso de tecnologías de vanguardia como <span class='underline'> Android, iOS y Flutter</span> que me permiten crear aplicaciones móviles multiplataforma que ofrecen una experiencia de usuario similar a la nativa.",
+        "Poseo un agudo sentido del diseño y la usabilidad, lo que garantiza que cada aplicación que desarrollo sea intuitiva y fácil de usar. Mi habilidad para transformar diseños complejos en aplicaciones móviles dinámicas y eficientes demuestra mi compromiso de brindar experiencias de usuario excepcionales.",
+        "Tengo experiencia desarrollando API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Azure."
+    ],
+    "Experience.Title": "Experiencia, Responsabilidades & Logros",
+    "Experience.Jobs": [
+        {
+            "Tab": "Rent2Park Inc",
+            "Title": "Lead Developer",
+            "Date": "August 2023 - Actual (Full-Time Job)",
+            "Description": [
+                "Supervisión Arquitectónica: Como Desarrollador Principal, superviso y tomo decisiones críticas sobre nuestra arquitectura de software. Me aseguro de que nuestro sistema sea escalable, mantenible y siga las mejores prácticas.",
+                "Mentoría y Desarrollo del Equipo: Me enorgullece fomentar el crecimiento de los desarrolladores junior en mi equipo. Esto incluye realizar revisiones de código, ofrecer sesiones de mentoría individual y guiarlos a través de desafíos técnicos.",
+                "Calidad del Código y Estándares: Me aseguro de que nuestra base de código mantenga un alto estándar de calidad. Esto implica implementar y mantener estándares de codificación, llevar a cabo revisiones regulares de código e integrar robustos marcos de pruebas y herramientas de integración continua.",
+                "Gestión de Proyectos y Delegación de Tareas: Trabajando de manera independiente o en colaboración con los gestores de proyectos, priorizo tareas, desgloso proyectos complejos en partes manejables y los asigno a los miembros del equipo según sus habilidades y expertise.",
+                "Comunicación con Interesados: Actúo como enlace entre el equipo técnico y los interesados, garantizando que las complejidades técnicas se comuniquen eficazmente y que los requisitos del proyecto se transformen con precisión en soluciones técnicas.",
+                "Investigación y Evaluación de Tecnología: Mantenerme actualizado sobre las últimas tecnologías y herramientas es crucial en mi rol. Evalúo y decido sobre la adopción de nuevas tecnologías que puedan mejorar nuestros proyectos o beneficiar a la organización en general."
+            ]
+        },
+        {
+            "Tab": "SPLIT Tech, Inc.",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "Abril 2022 - Agosto 2023 (Part-Time Job)",
+            "Description": [
+                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+                "Desarrollo de aplicaciones móviles robustas y escalables usando Flutter, React, Node.js, Postgres y AWS",
+                "Responsable de las revisiones de código y la calidad del código del equipo.",
+                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+            ]
+        },
+        {
+            "Tab": "SoftCube, SRL",
+            "Title": "Mid-Senior Mobile Software Engineer",
+            "Date": "Enero 2018 - Mayo 2023 (Full-Time Job)",
+            "Description": [
+                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
+                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
+                "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
+                "Responsable de las revisiones de código y la calidad del código del equipo.",
+                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
+                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+            ]
+        }
+    ],
+    "FeatureMobileProjects.Title": "Mobile Projects",
+    "FeatureMobileProjects.Label": "Featured Project",
+    "FeatureMobileProjects.Projects": [
+        {
+            "Title": "Rent2Park",
+            "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
+            "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores 🚙 con estacionamiento privado 🅿️ en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos 🔋.",
+            "imgs": [
+                "assets/images/rent2park/0.png",
+                "assets/images/rent2park/1.png",
+                "assets/images/rent2park/2.png",
+                "assets/images/rent2park/3.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                ".Net",
+                "Postgres",
+                "Azure"
+            ]
+        },
+        {
+            "Title": "Split Payment",
+            "Description": "Es un sistema de pago donde puedes <span class='underline'>transferir dinero en cualquier moneda</span> a tus familiares y amigos.",
+            "imgs": [
+                "assets/images/splitmobile/0.png",
+                "assets/images/splitmobile/1.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "GraphQL",
+                "Postgres",
+                "Node.JS",
+                "Docker",
+                "AWS"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "Más proyectos",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Pokemon",
+            "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
+            "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
+            "demoLink": "https://proyectos.jacksoncuevas.com/pokemon-list",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
+            "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
+            "demoLink": "https://proyectos.jacksoncuevas.com/coming-soon-page",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form"
+            ]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
+            "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
+            "demoLink": "https://proyectos.jacksoncuevas.com/four-card-feature-section",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID"
+            ]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
+            "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
+            "demoLink": "https://proyectos.jacksoncuevas.com/social-proof-section",
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "GIT"
+            ]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
+            "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
+            "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "Angular animations"
+            ]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
+            "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
+            "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "GIT"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "Y... ¿Ahora?",
+    "Contact.Title": "¡Saludame!",
+    "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
+    "Contact.mail": "Envíame un correo",
+    "Contact.whatsapp": "Contáctame por WhatsApp"
+}

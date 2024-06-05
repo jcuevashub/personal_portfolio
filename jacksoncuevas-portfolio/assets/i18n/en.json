@@ -1,0 +1,175 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "As a Mobile Software Engineer with <span class='underline'>over 8+ years of experience</span>, I have a comprehensive understanding of both client-side and server-side technologies. My expertise covers the entire software development life cycle, including requirements analysis, system design, coding, testing, deployment, and maintenance. This extensive experience enables me to integrate technical and business perspectives, ensuring that my mobile solutions are technically sound and aligned with business objectives.",
+    "Banner.ActionBtn": "Get in touch",
+    "MainTech.Title": "Main Skills & Education",
+    "SecondTech.Title": "Well known",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In front-end development, I excel in creating engaging and responsive mobile interfaces. I am proficient in using cutting-edge  technologies such as <span class='underline'> Android, iOS, and Flutter</span> that allow me to build cross-platform mobile applications that offer a native-like user experience.",
+        "I possess a keen sense of design and usability, which ensures that each app I develop is intuitive and user-friendly. My skill in transforming complex designs into dynamic and efficient mobile applications demonstrates my commitment to delivering exceptional user experiences.",
+        "I have experience developing scalable and efficient APIs and services on the back end using technologies like .NET Core and Azure."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Rent2Park, Inc.",
+            "Title": "Lead Developer",
+            "Date": "August 2023 - Present (Full-Time Job)",
+            "Description": [
+                "Architectural Oversight: As the Lead Developer, I oversee and make critical decisions regarding our software architecture. I ensure our system is scalable, maintainable, and follows best practices.",
+                "Mentoring and Team Development: I take pride in nurturing the growth of junior developers on my team. This includes conducting code reviews, offering one-on-one mentoring sessions, and guiding them through technical challenges.",
+                "Code Quality and Standards: I ensure that our codebase maintains a high standard of quality. This involves implementing and upholding coding standards, conducting regular code reviews, and integrating robust testing frameworks and continuous integration tools.",
+                "Project Management and Task Delegation: Working either independently or in tandem with project managers, I prioritize tasks, break down intricate projects into manageable pieces, and assign them to team members based on their specific skills and expertise.",
+                "Stakeholder Communication: I act as a liaison between the technical team and stakeholders, ensuring that technical nuances are effectively communicated and that project requirements are accurately transformed into technical solutions.",
+                "Research and Technology Evaluation: Staying abreast of the latest technologies and tools is crucial in my role. I evaluate and decide on the adoption of new technologies that can enhance our projects or benefit the organization as a whole."
+            ]
+        },
+        {
+            "Tab": "SPLIT Tech, Inc.",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "Apr 2022 - Aug 2023 (Part-Time Job)",
+            "Description": [
+                "Planned and managed the phases of the development life cycle of the software.",
+                "Analyzed feedback data provided by end-users, architects, and tech leads.",
+                "Development of robust and scalable mobile applications using Flutter, React, Node.js, Postgres y AWS",
+                "Responsible for code reviews and team code quality.",
+                "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
+                "Provide knowledge transfer sessions among the team."
+            ]
+        },
+        {
+            "Tab": "SoftCube, SRL",
+            "Title": "Full-Stack Software Engineer",
+            "Date": "Jan 2018 - Apr 2023 (Full-Time Job)",
+            "Description": [
+                "Planned and managed the phases of the development life cycle of the software.",
+                "Analyzed feedback data provided by end-users, architects, and tech leads.",
+                "Development of robust and scalable mobile applications using Android with Kotlin, Node.js, and Flutter.",
+                "Responsible for code reviews and team code quality.",
+                "Manage distributed teams in a customer-facing role, find the best solution to requests, and communicate action plans to stakeholders.",
+                "Provide knowledge transfer sessions among the team."
+            ]
+        }
+    ],
+    "FeatureMobileProjects.Title": "Mobile Projects",
+    "FeatureMobileProjects.Label": "Featured Project",
+    "FeatureMobileProjects.Projects": [
+        {
+            "Title": "Rent2Park",
+            "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
+            "Description": "Rent2Park is a technology platform that matches drivers 🚙 with private parking 🅿️ on driveways, garages, land & EV 🔋spaces from our private host database.",
+            "imgs": [
+                "assets/images/rent2park/0.png",
+                "assets/images/rent2park/1.png",
+                "assets/images/rent2park/2.png",
+                "assets/images/rent2park/3.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                ".Net",
+                "Postgres",
+                "Azure"
+            ]
+        },
+        {
+            "Title": "Split Payment",
+            "Description": "It's a payment system where you can  <span class='underline'> transfer money in any currency</span> to your family and friends",
+            "imgs": [
+                "assets/images/splitmobile/0.png",
+                "assets/images/splitmobile/1.png"
+            ],
+            "Technologies": [
+                "Flutter",
+                "Firebase",
+                "Node.JS",
+                "Postgres",
+                "AWS"
+            ]
+        }
+    ],
+    "InConstruction.Title": "In Construction..",
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
+            "demoLink": "https://projects.jacksoncuevas.com/pokemon-list",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
+            "demoLink": "https://projects.jacksoncuevas.com/coming-soon-page",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form"
+            ]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
+            "demoLink": "https://projects.jacksoncuevas.com/four-card-feature-section",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID"
+            ]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
+            "demoLink": "https://projects.jacksoncuevas.com/social-proof-section",
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "GIT"
+            ]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "FAQ accordion with logic and animations made in Angular.",
+            "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
+            "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "Angular animations"
+            ]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+            "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
+            "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "GIT"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Connect with Me!",
+    "Contact.Content": "If you're interested in discussing new opportunities, please feel free to reach out. I'll respond promptly upon receiving your message.",
+    "Contact.mail": "Send me an email",
+    "Contact.whatsapp": "Contact me on WhatsApp"
+}
