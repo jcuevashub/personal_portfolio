@@ -12,15 +12,16 @@
           {{ "InConstruction.Title" | translate }}
         </h3>
       </div>
-      <!-- <div class="mt-5">
+      <div class="mt-5">
         <div class="row p-0">
           <div
             *ngFor="
               let project of 'OtherProjects.Projects' | translate;
               let i = index
             "
-            (click)="redirect(project['demoLink'], $event)"
+            (click)="redirect(project['ghLink'], $event)"
             class="col-12 col-md-6 col-lg-6 col-xl-4 proyect-col"
+            [href]="project['ghLink']"
             data-aos="fade-up"
             data-aos-duration="1000"
           >
@@ -30,7 +31,7 @@
                   <img src="assets/icons/folder.svg" width="40" />
                 </div>
                 <div class="col-6 d-flex p-0 justify-content-end">
-                  <a
+                  <!-- <a
                     (click)="
                       analyticsService.sendAnalyticEvent(
                         'click_pokemonlist_external_link',
@@ -42,7 +43,7 @@
                     [href]="project['demoLink']"
                     target="_blank"
                     ><i id="demoLink" class="ml-3 fas fa-external-link-alt"></i
-                  ></a>
+                  ></a> -->
                   <a
                     (click)="
                       analyticsService.sendAnalyticEvent(
@@ -72,7 +73,7 @@
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
     </div>
   </div>
 </section>

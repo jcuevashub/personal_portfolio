@@ -3,68 +3,91 @@
     "Header.Item2": "Experiencia",
     "Header.Item3": "Proyectos",
     "Header.Item4": "Contacto",
-    "Header.cvBtn": "Curriculum",
+    "Header.cvBtn": "Curriculum Vitae",
     "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Como ingeniero de software móvil con <span class='underline'>más de 8+ años de experiencia</span>, Tengo un amplio conocimiento de las tecnologías del lado del cliente y del lado del servidor. Mi experiencia cubre todo el ciclo de vida del desarrollo de software, incluido el análisis de requisitos, diseño de sistemas, codificación, pruebas, implementación y mantenimiento. Esta amplia experiencia me permite integrar perspectivas técnicas y comerciales, asegurando que mis soluciones móviles sean técnicamente sólidas y alineadas con los objetivos del negocio.",
+    "Banner.Description": "Con <span class='underline'>más de 8+ años de experiencia</span> como Desarrollador Móvil, me especializo en tecnologías tanto del lado del cliente como del servidor, abarcando todo el ciclo de desarrollo para entregar soluciones móviles robustas y alineadas con los objetivos del negocio.",
     "Banner.ActionBtn": "Saludame",
     "MainTech.Title": "Principales Habilidades & Educación",
     "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-        "En el desarrollo front-end, me destaco en la creación de interfaces móviles atractivas y responsivas. Soy competente en el uso de tecnologías de vanguardia como <span class='underline'> Android, iOS y Flutter</span> que me permiten crear aplicaciones móviles multiplataforma que ofrecen una experiencia de usuario similar a la nativa.",
+        "Me especializo en el desarrollo mobile, creando interfaces móviles atractivas y responsivas. Con experiencia en Android, iOS, Flutter y React Native, desarrollo aplicaciones multiplataforma que ofrecen una experiencia de usuario fluida y similar a la nativa.",
         "Poseo un agudo sentido del diseño y la usabilidad, lo que garantiza que cada aplicación que desarrollo sea intuitiva y fácil de usar. Mi habilidad para transformar diseños complejos en aplicaciones móviles dinámicas y eficientes demuestra mi compromiso de brindar experiencias de usuario excepcionales.",
         "Tengo experiencia desarrollando API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Azure."
     ],
-    "Experience.Title": "Experiencia, Responsabilidades & Logros",
+    "Experience.Title": "Experiencia",
     "Experience.Jobs": [
         {
-            "Tab": "Rent2Park Inc",
-            "Title": "Lead Developer",
-            "Date": "August 2023 - Actual (Full-Time Job)",
+            "Tab": "Banesco",
+            "Title": "Desarrollador Móvil",
+            "Date": "Marzo 2024 - Actualidad (Tiempo Completo) - República Dominicana - Remoto",
             "Description": [
-                "Supervisión Arquitectónica: Como Desarrollador Principal, superviso y tomo decisiones críticas sobre nuestra arquitectura de software. Me aseguro de que nuestro sistema sea escalable, mantenible y siga las mejores prácticas.",
-                "Mentoría y Desarrollo del Equipo: Me enorgullece fomentar el crecimiento de los desarrolladores junior en mi equipo. Esto incluye realizar revisiones de código, ofrecer sesiones de mentoría individual y guiarlos a través de desafíos técnicos.",
-                "Calidad del Código y Estándares: Me aseguro de que nuestra base de código mantenga un alto estándar de calidad. Esto implica implementar y mantener estándares de codificación, llevar a cabo revisiones regulares de código e integrar robustos marcos de pruebas y herramientas de integración continua.",
-                "Gestión de Proyectos y Delegación de Tareas: Trabajando de manera independiente o en colaboración con los gestores de proyectos, priorizo tareas, desgloso proyectos complejos en partes manejables y los asigno a los miembros del equipo según sus habilidades y expertise.",
-                "Comunicación con Interesados: Actúo como enlace entre el equipo técnico y los interesados, garantizando que las complejidades técnicas se comuniquen eficazmente y que los requisitos del proyecto se transformen con precisión en soluciones técnicas.",
-                "Investigación y Evaluación de Tecnología: Mantenerme actualizado sobre las últimas tecnologías y herramientas es crucial en mi rol. Evalúo y decido sobre la adopción de nuevas tecnologías que puedan mejorar nuestros proyectos o beneficiar a la organización en general."
+                "Diseñé software escalable, aseguré alta calidad en el código, facilité la comunicación con stakeholders e integré nuevas tecnologías para mejorar los resultados del proyecto."
+            ]
+        },
+        {
+            "Tab": "Rent2Park, Inc.",
+            "Title": "Desarrollador Líder",
+            "Date": "Agosto 2023 - Marzo 2024 (Tiempo Completo) - Estados Unidos, Miami - Remoto",
+            "Description": [
+                "Líder de desarrollo con experiencia en arquitectura de software, mentoría de equipos y mantenimiento de alta calidad en el código. Habilidad en gestión de proyectos, comunicación con stakeholders y evaluación de tecnologías para impulsar soluciones escalables y eficientes."
             ]
         },
         {
             "Tab": "SPLIT Tech, Inc.",
-            "Title": "Full-Stack Software Engineer",
-            "Date": "Abril 2022 - Agosto 2023 (Part-Time Job)",
+            "Title": "Ingeniero de Software Full-Stack",
+            "Date": "Abril 2023 - Agosto 2023 (Medio Tiempo) - Estados Unidos, Miami - Remoto",
             "Description": [
-                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-                "Desarrollo de aplicaciones móviles robustas y escalables usando Flutter, React, Node.js, Postgres y AWS",
-                "Responsable de las revisiones de código y la calidad del código del equipo.",
-                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+                "Gestioné el ciclo de vida del desarrollo de software, analicé retroalimentación de usuarios, desarrollé aplicaciones móviles escalables, aseguré la calidad del código, lideré equipos distribuidos y realicé sesiones de transferencia de conocimientos."
+            ]
+        },
+        {
+            "Tab": "CODIKA, SRL",
+            "Title": "Ingeniero de Software Móvil",
+            "Date": "Octubre 2022 - Julio 2023 (Tiempo Completo) - República Dominicana - Remoto",
+            "Description": [
+                "Gestioné el ciclo de vida del desarrollo de software, analicé retroalimentación de usuarios, desarrollé aplicaciones móviles escalables, aseguré la calidad del código, lideré equipos distribuidos y realicé sesiones de transferencia de conocimientos."
             ]
         },
         {
             "Tab": "SoftCube, SRL",
-            "Title": "Mid-Senior Mobile Software Engineer",
-            "Date": "Enero 2018 - Mayo 2023 (Full-Time Job)",
+            "Title": "Ingeniero de Software Móvil",
+            "Date": "Enero 2018 - Abril 2023 (Tiempo Completo) - República Dominicana - Remoto",
             "Description": [
-                "Planifiqué y gestioné las fases del ciclo de vida de desarrollo del software.",
-                "Análisis de datos de retroalimentación proporcionados por usuarios finales, arquitectos y líderes tecnológicos.",
-                "Desarrollo de aplicaciones móviles robustas y escalables usando Android con Kotlin, Node.js y Flutter.",
-                "Responsable de las revisiones de código y la calidad del código del equipo.",
-                "Administre equipos distribuidos en un rol orientado al cliente, encuentre la mejor solución para las solicitudes y comunique los planes de acción a las partes interesadas.",
-                "Proporcionar sesiones de transferencia de conocimiento entre el equipo."
+                "Gestioné el ciclo de vida del desarrollo de software, analicé retroalimentación de usuarios, desarrollé aplicaciones móviles escalables con Kotlin, Node.js y Flutter, aseguré la calidad del código, lideré equipos distribuidos y realicé sesiones de transferencia de conocimientos."
+            ]
+        },
+        {
+            "Tab": "Wepsys, SRL",
+            "Title": "Ingeniero de Software Full-Stack",
+            "Date": "Enero 2018 - Abril 2021 (Tiempo Completo) - República Dominicana - Remoto",
+            "Description": [
+                "Diseñé software escalable, aseguré alta calidad en el código, facilité la comunicación con stakeholders e integré nuevas tecnologías para mejorar los resultados del proyecto."
             ]
         }
     ],
-    "FeatureMobileProjects.Title": "Mobile Projects",
-    "FeatureMobileProjects.Label": "Featured Project",
+    "FeatureMobileProjects.Title": "Proyectos móviles",
+    "FeatureProjects.Label": "Proyecto destacado",
     "FeatureMobileProjects.Projects": [
+        {
+            "Title": "Clon de Instagram",
+            "demoLink": "https://github.com/jcuevashub/PlatziTweets.git",
+            "Description": "Clon de Instagram es una aplicación de redes sociales construida con React Native, diseñada para replicar las características principales de Instagram, incluyendo la carga de fotos, perfiles de usuario e historias interactivas. Esta app es compatible con las plataformas iOS, Android y web, proporcionando una experiencia receptiva y atractiva para los usuarios.",
+            "imgs": [
+                "assets/images/instagramclone/0.png",
+                "assets/images/instagramclone/1.png",
+                "assets/images/instagramclone/2.png"
+            ],
+            "Technologies": [
+                "React Native",
+                "Firebase"
+            ]
+        },
         {
             "Title": "Rent2Park",
             "demoLink": "https://itunes.apple.com/us/app/myapp/id1581588842?ls=1&mt=8",
-            "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores 🚙 con estacionamiento privado 🅿️ en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos 🔋.",
+            "Description": "Rent2Park es una plataforma tecnológica que conecta a los conductores con estacionamiento privado en entradas de vehículos, garajes, terrenos y espacios para vehículos eléctricos.",
             "imgs": [
                 "assets/images/rent2park/0.png",
                 "assets/images/rent2park/1.png",
@@ -96,74 +119,66 @@
             ]
         }
     ],
+    "InConstruction.Title": "En construcción..",
     "OtherProjects.Title": "Más proyectos",
     "OtherProjects.Projects": [
         {
-            "Title": "Pokemon",
-            "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
-            "ghLink": "https://github.com/jacksoncuevas/pokemon-angular",
-            "demoLink": "https://proyectos.jacksoncuevas.com/pokemon-list",
+            "Title": "Notas con SwiftUI",
+            "Description": "Notas es una aplicación simple e intuitiva para tomar notas, desarrollada para iOS utilizando SwiftUI. La app permite a los usuarios crear, editar y eliminar notas con facilidad, proporcionando una experiencia fluida con una interfaz moderna y limpia.",
+            "ghLink": "https://github.com/jcuevashub/Notes.git",
             "Technologies": [
-                "Angular",
-                "RxJs",
-                "API",
-                "Bootstrap"
+                "Swift",
+                "SwiftUI",
+                "Combine",
+                "CoreData"
             ]
         },
         {
-            "Title": "Coming soon page",
-            "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
-            "ghLink": "https://github.com/jacksoncuevas/coming-soon-page",
-            "demoLink": "https://proyectos.jacksoncuevas.com/coming-soon-page",
+            "Title": "ToDoApp con Jetpack Compose",
+            "Description": "ToDoApp es una aplicación de gestión de tareas simple pero poderosa, construida utilizando Jetpack Compose para el desarrollo moderno de Android. La app permite a los usuarios crear, editar y gestionar sus tareas fácilmente con una interfaz limpia e intuitiva.",
+            "ghLink": "https://github.com/jcuevashub/ToDoApp",
             "Technologies": [
-                "Angular",
-                "SASS",
-                "CSS GRID",
-                "Reactive form"
+                "Kotlin",
+                "Jetpack Compose",
+                "Room",
+                "LiveData",
+                "ViewModel",
+                "Coroutines"
             ]
         },
         {
-            "Title": "Four card feature section",
-            "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-            "ghLink": "https://github.com/jacksoncuevas/fourd-card-feature-section",
-            "demoLink": "https://proyectos.jacksoncuevas.com/four-card-feature-section",
+            "Title": "Platzi Wallet",
+            "Description": "Wallet es una aplicación simple y segura para Android diseñada para ayudar a los usuarios a gestionar sus finanzas, almacenar métodos de pago y llevar un registro de las transacciones. Construida con layouts XML y Java/Kotlin para el desarrollo en Android, esta app asegura una experiencia fluida y una navegación fácil.",
+            "ghLink": "https://github.com/jcuevashub/platziwallet",
             "Technologies": [
-                "Angular",
-                "SASS",
-                "CSS GRID"
+                "Kotlin",
+                "XML",
+                "SQLite",
+                "SharedPreferences"
             ]
         },
         {
-            "Title": "Social proof section",
-            "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-            "ghLink": "https://github.com/jacksoncuevas/social-proof-section",
-            "demoLink": "https://proyectos.jacksoncuevas.com/social-proof-section",
+            "Title": "Platzi Tweets",
+            "Description": "PlatziTweets es una app de iOS construida con UIKit que permite a los usuarios ver, publicar e interactuar con tweets en tiempo real. Proporciona una interfaz elegante y receptiva para que los usuarios gestionen su feed de Twitter y compartan contenido con amigos.",
+            "ghLink": "https://github.com/jcuevashub/PlatziTweets.git",
             "Technologies": [
-                "Angular",
-                "CSS GRID",
-                "GIT"
+                "Swift",
+                "UIKit",
+                "CoreData",
+                "Alamofire",
+                "JSONDecoder"
             ]
         },
         {
-            "Title": "FAQ accordion card",
-            "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-            "ghLink": "https://github.com/jacksoncuevas/faq-accordion",
-            "demoLink": "https://proyectos.jacksoncuevas.com/faq-accordion",
+            "Title": "Facebook Clone",
+            "Description": "FacebookClone es una app de iOS que replica la funcionalidad básica de Facebook. Construida utilizando UIKit, la app permite a los usuarios publicar actualizaciones, dar me gusta y comentar en publicaciones, e interactuar con amigos.",
+            "ghLink": "https://github.com/jcuevashub/FacebookClone.git",
             "Technologies": [
-                "Angular",
-                "CSS GRID",
-                "Angular animations"
-            ]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-            "ghLink": "https://github.com/jacksoncuevas/profile-card-component",
-            "demoLink": "https://proyectos.jacksoncuevas.com/profile-card-component",
-            "Technologies": [
-                "Angular",
-                "SASS",
-                "GIT"
+                "Swift",
+                "UIKit",
+                "CoreData",
+                "Firebase",
+                "Push Notifications"
             ]
         }
     ],

@@ -2,11 +2,30 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <script type="module">
+  
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/11.2.0/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.2.0/firebase-analytics.js";
 
+      const firebaseConfig = {
+        apiKey: "AIzaSyCKdxK4E6vN3Ezllth7uZhj86zv_AFM_1o",
+        authDomain: "jacksoncuevas-portfolio.firebaseapp.com",
+        projectId: "jacksoncuevas-portfolio",
+        storageBucket: "jacksoncuevas-portfolio.firebasestorage.app",
+        messagingSenderId: "712782657288",
+        appId: "1:712782657288:web:c7103f5a6b9251f4a75ebd",
+        measurementId: "G-GVMS91N8XC"
+      };
+    
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
+    
     <!-- Primary Meta Tags -->
-    <title>Jackson Cuevas | Software Engineer</title>
-    <meta name="title" content="Jackson Cuevas | Software Engineer" />
-    <meta name="description" content="Software Engineer" />
+    <title>Jackson Cuevas | Senior Software Engineer</title>
+    <meta name="title" content="Jackson Cuevas | Senior Software Engineer" />
+    <meta name="description" content="Senior Software Engineer" />
 
     <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />

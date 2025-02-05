@@ -2,7 +2,7 @@
   "name": "jacksoncuevas-portfolio",
   "version": "0.0.0",
   "scripts": {
-    "deploy": "firebase deploy --only hosting",
+    "deploy": "gh-pages -d dist/jacksoncuevas-portfolio",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
@@ -29,6 +29,7 @@
     "@ngx-translate/http-loader": "^6.0.0",
     "aos": "^2.3.4",
     "bootstrap": "^4.5.0",
+    "gh-pages": "^6.1.1",
     "ng2-animate-on-scroll": "2.3.2",
     "ngx-google-analytics": "^11.2.0",
     "ngx-owl-carousel-o": "^6.0.0",

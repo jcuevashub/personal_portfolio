@@ -69,13 +69,13 @@
 }
 
 .jobs{
-
-    max-width: 700px;
     margin: auto;
 
     .title-tab-content{
         color: $LightestSlate;
         font-size: 22px;
+        margin-left: 40px;
+
         font-weight: 500;
         margin-bottom: 5px;
 
@@ -86,6 +86,8 @@
 
     .job-time{
         font-family: $CodeFont;
+        margin-left: 40px;
+
         font-size: 13px;
         font-weight: normal;
             -webkit-letter-spacing: 0.05em;
@@ -97,6 +99,8 @@
     }
     
     .job-description{
+        margin-left: 40px;
+
         position: relative;
         padding-left: 30px;
         margin-bottom: 10px;
