@@ -72,7 +72,7 @@
     "FeatureMobileProjects.Projects": [
         {
             "Title": "Instagram Clone",
-            "demoLink": "https://github.com/jcuevashub/PlatziTweets.git",
+            "demoLink": "https://github.com/jcuevashub/personal_portfolio.git",
             "Description": "Instagram Clone is a social media app built with React Native, designed to replicate the core features of Instagram, including photo uploads, user profiles, and interactive stories. This app supports iOS, Android, and web platforms, providing a responsive and engaging experience for users.",
             "imgs": [
                 "assets/images/instagramclone/0.png",
