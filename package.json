@@ -2,7 +2,7 @@
   "name": "jacksoncuevas-portfolio",
   "version": "0.0.0",
   "scripts": {
-    "deploy": "gh-pages -d dist/jacksoncuevas-portfolio",
+    "deploy": "firebase deploy --only hosting ",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",

@@ -22,10 +22,10 @@ export class AppComponent implements OnInit {
     this.languageService.initLanguage()
 
 
-    this.titleService.setTitle("Jackson Cuevas | Senior Software Engineer");
+    this.titleService.setTitle("Jackson Cuevas | Software Engineer");
 
     this.metaService.addTags([
-      { name: 'keywords', content: 'Senior Mobile Software Engineer' },
+      { name: 'keywords', content: 'Mobile Software Engineer' },
       { name: 'description', content: '' },
     ]);
 
