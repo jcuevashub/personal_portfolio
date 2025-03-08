@@ -6,15 +6,14 @@
     "Header.cvBtn": "Curriculum Vitae",
     "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "<span class='underline'>As a Software Engineer</span>, I specialize in both client-side and server-side technologies, covering the entire development life cycle to deliver robust, business-driven mobile solutions.",
+    "Banner.Description": "As a <span class='underline'>Senior Mobile Developer</span>, I specialize in both client-side and server-side technologies, overseeing the entire development lifecycle to create scalable, high-performance mobile solutions. I focus on delivering business-driven applications that combine seamless user experiences with robust backend architectures.",
     "Banner.ActionBtn": "Get in touch",
     "MainTech.Title": "Main Skills & Education",
     "SecondTech.Title": "Well known",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "I specialize in mobile development, crafting engaging and responsive mobile interfaces. With expertise in Android, iOS, Flutter and React Native, I build cross-platform applications that deliver a seamless, native-like user experience.",
-        "My strong sense of design and usability ensures that every app I develop is intuitive and user-friendly. I excel at transforming complex concepts into dynamic, high-performance mobile applications, consistently prioritizing exceptional user experiences.",
-        "On the back end, I have experience developing scalable and efficient APIs and services using .NET Core and Azure, ensuring robust and reliable application architecture."
+        "I specialize in mobile development, crafting engaging and responsive mobile interfaces. With expertise in Android, iOS, Flutter and React Native, I develop both native and cross-platform applications, ensuring a seamless, high-performance user experience that feels truly native.",
+        "My strong sense of design and usability ensures that every app I develop is intuitive and user-friendly. I excel at transforming complex concepts into dynamic, high-performance mobile applications, consistently prioritizing exceptional user experiences."
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
@@ -53,7 +52,7 @@
         {
             "Tab": "SoftCube, SRL",
             "Title": "Mobile Software Engineer",
-            "Date": "Jan 2018 - Apr 2023 (Full-Time Job) - Dominican Republic - Remote",
+            "Date": "Jan 2019 - Apr 2023 (Part-Time Job) - Dominican Republic - Remote",
             "Description": [
                 "Managed software development lifecycle, analyzed user feedback, built scalable mobile apps with Android, iOS, and Flutter, ensured code quality, led distributed teams, and conducted knowledge transfer sessions."
             ]
@@ -61,7 +60,7 @@
         {
             "Tab": "Wepsys, SRL",
             "Title": "Full-Stack Software Engineer",
-            "Date": "Jan 2018 - Apr 2021 (Full-Time Job) - Dominican Republic - Remote",
+            "Date": "Jan 2019 - Apr 2021 (Full-Time Job) - Dominican Republic - Remote",
             "Description": [
                 "Designed scalable software, ensured high code quality, facilitated stakeholder communication, and integrated new technologies for improved project outcomes."
             ]

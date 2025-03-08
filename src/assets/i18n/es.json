@@ -6,15 +6,14 @@
     "Header.cvBtn": "Curriculum Vitae",
     "Header.cvName": "Jackson_Cuevas_Senior_Mobile_Software_Engineer_English.pdf",
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "<span class='underline'>Como Ingeniero de Software</span>, me especializo en tecnologías tanto del lado del cliente como del servidor, abarcando todo el ciclo de desarrollo para entregar soluciones móviles robustas y alineadas con los objetivos del negocio.",
+    "Banner.Description": "Como <span class='underline'>Desarrollador Móvil Senior/span>, me especializo en tecnologías tanto del lado del cliente como del servidor, gestionando todo el ciclo de desarrollo para crear soluciones móviles escalables y de alto rendimiento. Me enfoco en ofrecer aplicaciones impulsadas por el negocio que combinan una experiencia de usuario fluida con arquitecturas backend sólidas.",
     "Banner.ActionBtn": "Saludame",
     "MainTech.Title": "Principales Habilidades & Educación",
     "SecondTech.Title": "Proeficiente",
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-        "Me especializo en el desarrollo mobile, creando interfaces móviles atractivas y responsivas. Con experiencia en Android, iOS, Flutter y React Native, desarrollo aplicaciones multiplataforma que ofrecen una experiencia de usuario fluida y similar a la nativa.",
-        "Poseo un agudo sentido del diseño y la usabilidad, lo que garantiza que cada aplicación que desarrollo sea intuitiva y fácil de usar. Mi habilidad para transformar diseños complejos en aplicaciones móviles dinámicas y eficientes demuestra mi compromiso de brindar experiencias de usuario excepcionales.",
-        "Tengo experiencia desarrollando API y servicios escalables y eficientes en el back-end utilizando tecnologías como .NET Core y Azure."
+        "Me especializo en el desarrollo móvil, creando interfaces atractivas y responsivas. Con experiencia en Android, iOS, Flutter y React Native, desarrollo tanto aplicaciones nativas como multiplataforma, garantizando una experiencia de usuario fluida, eficiente y de calidad, con un rendimiento similar al de las aplicaciones nativas.",
+        "Poseo un agudo sentido del diseño y la usabilidad, lo que garantiza que cada aplicación que desarrollo sea intuitiva y fácil de usar. Mi habilidad para transformar diseños complejos en aplicaciones móviles dinámicas y eficientes demuestra mi compromiso de brindar experiencias de usuario excepcionales."
     ],
     "Experience.Title": "Experiencia",
     "Experience.Jobs": [
@@ -53,7 +52,7 @@
         {
             "Tab": "SoftCube, SRL",
             "Title": "Ingeniero de Software Móvil",
-            "Date": "Enero 2018 - Abril 2023 (Tiempo Completo) - República Dominicana - Remoto",
+            "Date": "Enero 2019 - Abril 2023 (Medio Completo) - República Dominicana - Remoto",
             "Description": [
                 "Gestioné el ciclo de vida del desarrollo de software, analicé retroalimentación de usuarios, desarrollé aplicaciones móviles escalables con Kotlin, Node.js y Flutter, aseguré la calidad del código, lideré equipos distribuidos y realicé sesiones de transferencia de conocimientos."
             ]
@@ -61,7 +60,7 @@
         {
             "Tab": "Wepsys, SRL",
             "Title": "Ingeniero de Software Full-Stack",
-            "Date": "Enero 2018 - Abril 2021 (Tiempo Completo) - República Dominicana - Remoto",
+            "Date": "Enero 2019 - Abril 2022 (Tiempo Completo) - República Dominicana - Remoto",
             "Description": [
                 "Diseñé software escalable, aseguré alta calidad en el código, facilité la comunicación con stakeholders e integré nuevas tecnologías para mejorar los resultados del proyecto."
             ]
